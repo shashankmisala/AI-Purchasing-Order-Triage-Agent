@@ -1,0 +1,16 @@
+Subject: {{ subject_prefix }}PO {{ po_number }} -- {{ exception_type }} requires your attention
+
+{{ salutation }}
+
+We are reviewing PO {{ po_number }} and have identified the following discrepancy during invoice processing:
+
+{{ issue_detail }}
+
+Required action: {{ required_action }}
+
+Please respond by {{ deadline }}. {{ closing_note }}
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+Procurement / Accounts Payable Team

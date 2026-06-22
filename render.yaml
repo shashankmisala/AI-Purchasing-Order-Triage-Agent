@@ -1,0 +1,23 @@
+# Render Blueprint (https://render.com/docs/blueprint-spec).
+#
+# Deploys the dashboard on Render's free tier. `python -m src.rag.ingest` runs at boot as a
+# fail-fast check that the knowledge base builds cleanly before Streamlit starts -- it doesn't
+# write anything to disk (see src/rag/ingest.py), it just validates and warms the in-process
+# cache.
+#
+# ANTHROPIC_API_KEY is intentionally left unset (sync: false, no value here) so the public
+# deployment defaults to rule-engine-only operation -- nobody can run up the project owner's
+# Anthropic bill by hitting the public URL. Set it in the Render dashboard if you want your own
+# deployment to run the full hybrid LLM+RAG path live.
+services:
+  - type: web
+    name: po-exception-triage-agent
+    env: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: python -m src.rag.ingest && streamlit run app.py --server.port $PORT --server.address 0.0.0.0
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.3
+      - key: ANTHROPIC_API_KEY
+        sync: false

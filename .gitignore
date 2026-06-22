@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+data/triage_report*.csv
+data/triage_report*.pdf
+
+# Security audit reports are for local review only -- never published.
+.gstack/
+
+# Local AI-tooling config, not part of the project deliverable.
+.claude/

@@ -1,0 +1,1001 @@
+PO Number,Vendor ID,Vendor Name,Industry,PO Amount,Quantity Ordered,GL Code,Payment Terms,PO Date,Vendor Payment History
+PO-000762,V-0171,Meadows PLC,Industrial Equipment,1508112.0,208,GL-9379,Net 45,2026-03-31,good
+PO-000902,V-0017,James Group,Automotive Parts,844668.02,59,GL-4714,Net 60,2026-03-15,good
+PO-000938,V-0087,"Ferrell, Jones and Lewis",Automotive Parts,2457384.93,413,GL-9737,2/10 Net 30,2026-02-28,good
+PO-000442,V-0143,Gibson Ltd,Industrial Equipment,1206428.16,190,GL-8925,Net 45,2026-03-22,good
+PO-000628,,White-Green,Consumer Goods,21686.18,35,GL-7737,Net 30,2026-05-31,good
+PO-000126,V-0183,Jackson-Lawson,Industrial Equipment,1113055.43,45,GL-6236,Net 30,2026-02-18,late
+PO-000166,V-0164,Smith-Bell,Industrial Equipment,2242658.38,424,GL-9442,2/10 Net 30,2026-04-08,late
+PO-000250,V-0055,Jones Inc,Industrial Equipment,1237040.01,166,GL-5646,2/10 Net 30,2026-02-15,good
+PO-000518,V-0177,Curry Inc,Consumer Goods,1757268.31,420,GL-2562,Net 60,2026-02-05,good
+PO-000491,V-0114,Gonzalez Group,Automotive Parts,618281.9,18,GL-8550,Net 60,2026-05-07,good
+PO-000427,V-0155,"Ramirez, Strickland and Washington",Industrial Equipment,16990.92,452,GL-8207,Net 45,2026-05-15,good
+PO-000124,V-0030,"Snyder, Campos and Callahan",Automotive Parts,65270.4,96,GL-9482,Net 45,2026-03-30,good
+PO-000226,V-0101,Figueroa PLC,Industrial Equipment,1157926.49,348,GL-9199,Net 60,2026-03-18,good
+PO-000646,V-0011,Blair PLC,Automotive Parts,2418798.65,339,GL-5896,Net 60,2026-05-08,good
+PO-000143,V-0146,Stafford Inc,Automotive Parts,1404761.25,186,GL-5728,Net 60,2026-03-23,good
+PO-000791,V-0176,King-Miller,Industrial Equipment,1913942.44,433,GL-7721,2/10 Net 30,2026-04-07,late
+PO-000282,V-0034,Frazier Inc,Automotive Parts,592310.95,134,GL-6161,Net 30,2026-02-13,good
+PO-000305,V-0082,Sandoval-Cunningham,Industrial Equipment,2302635.02,496,GL-4619,Net 30,2026-03-15,disputed
+PO-000984,V-0083,Donovan-Harris,Automotive Parts,645206.76,483,GL-2981,Net 30,2026-02-17,good
+PO-000553,V-0046,Spence PLC,Consumer Goods,1134475.0,460,GL-4308,Net 30,2026-03-02,good
+PO-000748,,George Group,Industrial Equipment,2137917.64,400,GL-4962,Net 60,2026-02-28,good
+PO-000856,V-0132,Spencer-Lee,Consumer Goods,854691.25,238,GL-4673,Net 30,2026-03-11,good
+PO-000585,V-0008,"Henderson, Ramirez and Lewis",Automotive Parts,1177103.58,346,GL-2735,Net 45,2026-05-26,late
+PO-000623,V-0181,Wells Inc,Consumer Goods,975481.18,135,,Net 45,2026-05-14,good
+PO-000946,V-0174,Lewis-Murphy,Consumer Goods,1315875.88,302,GL-9502,2/10 Net 30,2026-03-24,good
+PO-000001,V-0184,"Higgins, Strickland and Martin",Consumer Goods,496225.28,304,GL-4978,Net 45,2026-03-05,good
+PO-000949,V-0033,"Ferrell, Rice and Maddox",Automotive Parts,1212168.62,235,GL-9408,2/10 Net 30,2026-05-16,good
+PO-000687,V-0181,Wells Inc,Consumer Goods,1013698.25,405,GL-7068,Net 45,2026-02-10,good
+PO-000604,V-0036,Rodriguez-Graham,Consumer Goods,1605786.13,213,GL-8471,2/10 Net 30,2026-02-11,good
+PO-000109,V-0160,Russell-Daniels,Automotive Parts,1143055.48,57,GL-9189,Net 30,2026-02-14,good
+PO-000316,V-0140,Chambers and Sons,Industrial Equipment,969124.03,190,GL-7249,Net 30,2026-02-08,good
+PO-000864,V-0129,"Mccall, Hanson and Alvarado",Industrial Equipment,41163.6,380,GL-8583,2/10 Net 30,2026-03-10,good
+PO-000359,V-0070,Hancock Inc,Industrial Equipment,1557183.04,359,GL-7862,2/10 Net 30,2026-05-15,good
+PO-000576,V-0128,Diaz Inc,Automotive Parts,2192683.31,191,GL-5958,Net 60,2026-04-05,good
+PO-000152,V-0170,Hooper PLC,Automotive Parts,1196188.27,193,GL-3837,2/10 Net 30,2026-04-22,good
+PO-000731,V-0005,"Guzman, Hoffman and Baldwin",Automotive Parts,2113277.53,84,,Net 30,2026-03-19,good
+PO-000228,V-0090,Moore-Bass,Industrial Equipment,1190668.25,225,,Net 60,2026-03-01,good
+PO-000948,V-0163,"Smith, Gilmore and Johnston",Industrial Equipment,1058843.78,226,GL-9020,2/10 Net 30,2026-03-06,late
+PO-000868,V-0068,Novak and Sons,Industrial Equipment,853665.28,471,GL-4066,Net 60,2026-02-10,good
+PO-000596,V-0170,Hooper PLC,Automotive Parts,154174.81,112,GL-3276,2/10 Net 30,2026-02-17,good
+PO-000015,V-0123,Chandler-Edwards,Industrial Equipment,285660.81,34,GL-9056,Net 30,2026-04-11,good
+PO-000490,V-0047,Anderson Group,Consumer Goods,480884.64,431,GL-7251,Net 60,2026-04-30,good
+PO-000019,V-0105,Nolan-Flynn,Automotive Parts,1126534.01,305,GL-5771,Net 60,2026-04-02,good
+PO-000823,V-0098,Davis Group,Consumer Goods,325933.23,439,GL-4531,Net 60,2026-05-06,late
+PO-000611,,"Harvey, Davis and Crane",Automotive Parts,1995346.55,160,GL-1864,Net 60,2026-03-15,good
+PO-000034,V-0151,Salazar-Ball,Automotive Parts,1450018.5,338,GL-3434,Net 60,2026-03-31,good
+PO-000248,V-0192,"Wood, Hunter and Peterson",Automotive Parts,695925.11,480,GL-7046,Net 45,2026-02-09,late
+PO-000684,V-0022,"Watts, Robinson and Nguyen",Automotive Parts,1396438.17,7,,Net 45,2026-03-05,good
+PO-000550,V-0133,"Bentley, Byrd and Orr",Consumer Goods,1913017.1,493,GL-4110,Net 60,2026-05-26,good
+PO-000825,V-0061,"Brown, Valdez and Lucas",Automotive Parts,1544391.76,465,GL-7056,Net 60,2026-05-01,good
+PO-000772,V-0130,Cortez LLC,Industrial Equipment,139814.95,135,GL-7189,Net 60,2026-03-30,good
+PO-000556,V-0044,Allen-Allen,Consumer Goods,2280675.82,290,GL-3459,Net 45,2026-02-10,late
+PO-000979,V-0047,Anderson Group,Consumer Goods,639258.54,46,GL-6026,Net 60,2026-05-13,good
+PO-000803,V-0015,Williams and Sons,Industrial Equipment,1226151.27,192,GL-2850,Net 60,2026-03-04,good
+PO-000115,V-0052,Walker LLC,Industrial Equipment,109993.79,103,GL-1686,2/10 Net 30,2026-02-08,good
+PO-000454,V-0018,"Flowers, Martin and Kelly",Automotive Parts,956991.78,404,GL-4767,Net 30,2026-05-04,disputed
+PO-000308,V-0106,Nolan and Sons,Consumer Goods,1232958.44,194,GL-9946,Net 30,2026-04-18,good
+PO-000278,V-0089,Suarez LLC,Automotive Parts,1590036.63,356,GL-1157,Net 30,2026-02-09,good
+PO-000255,V-0179,"Williams, Johnson and Wright",Consumer Goods,859263.59,62,GL-7919,2/10 Net 30,2026-02-11,good
+PO-000729,V-0191,Reed Group,Automotive Parts,904717.9,247,GL-8144,Net 30,2026-03-21,good
+PO-000409,V-0101,Figueroa PLC,Industrial Equipment,1992027.71,435,GL-5832,Net 60,2026-03-24,good
+PO-000470,V-0173,White-Green,Consumer Goods,1276356.09,397,GL-8322,Net 30,2026-02-27,good
+PO-000318,V-0089,Suarez LLC,Automotive Parts,2020546.3,212,GL-4727,Net 30,2026-02-25,good
+PO-000426,V-0097,Wagner-King,Consumer Goods,2431698.93,115,GL-7649,Net 30,2026-03-27,good
+PO-000273,V-0010,Abbott-Munoz,Consumer Goods,1382385.54,468,GL-7870,Net 30,2026-03-02,good
+PO-000829,V-0154,Green-Wright,Automotive Parts,1774060.13,415,GL-1087,2/10 Net 30,2026-05-27,good
+PO-000750,V-0073,Henderson-Bernard,Industrial Equipment,429847.77,387,GL-1070,Net 30,2026-03-25,late
+PO-000186,V-0097,Wagner-King,Consumer Goods,460105.51,276,GL-4948,Net 30,2026-04-02,good
+PO-000638,,"Hoffman, Baker and Richards",Consumer Goods,2281566.75,367,GL-2692,2/10 Net 30,2026-04-29,good
+PO-000264,V-0016,Galloway-Wyatt,Industrial Equipment,2371725.65,204,GL-5693,Net 30,2026-03-29,good
+PO-000866,V-0022,"Watts, Robinson and Nguyen",Automotive Parts,1040920.78,361,GL-6143,Net 45,2026-04-27,good
+PO-000910,V-0041,Ryan PLC,Automotive Parts,1821009.02,363,GL-9288,2/10 Net 30,2026-04-06,good
+PO-000723,V-0023,Perez Inc,Consumer Goods,17043.86,328,GL-5478,Net 60,2026-02-04,good
+PO-000414,V-0159,Mccarthy Inc,Industrial Equipment,174987.31,100,GL-8960,2/10 Net 30,2026-04-22,good
+PO-000815,V-0082,Sandoval-Cunningham,Industrial Equipment,1128999.0,448,GL-3187,Net 30,2026-02-27,disputed
+PO-000847,V-0191,Reed Group,Automotive Parts,177274.86,488,GL-7248,Net 30,2026-03-16,good
+PO-000290,V-0085,"Evans, Stewart and Walton",Industrial Equipment,306757.88,483,GL-1829,Net 30,2026-04-03,good
+PO-000221,V-0018,"Flowers, Martin and Kelly",Automotive Parts,2047504.44,408,GL-7703,Net 30,2026-02-20,disputed
+PO-000544,V-0060,Gomez-Jenkins,Automotive Parts,1718601.02,184,GL-8808,Net 60,2026-05-22,good
+PO-000909,V-0041,Ryan PLC,Automotive Parts,1821009.02,363,GL-9288,2/10 Net 30,2026-04-06,good
+PO-000872,V-0123,Chandler-Edwards,Industrial Equipment,1150677.46,208,GL-8974,Net 30,2026-02-14,good
+PO-000147,V-0158,"Miller, Hernandez and Reyes",Automotive Parts,1848428.74,154,GL-6511,2/10 Net 30,2026-03-18,late
+PO-000759,V-0152,"Simmons, Meadows and Griffin",Automotive Parts,2443938.35,380,GL-3764,Net 45,2026-02-03,good
+PO-000786,V-0111,Patton-Jenkins,Automotive Parts,1658810.01,161,GL-7788,Net 30,2026-05-07,good
+PO-000078,V-0056,Jones-Young,Automotive Parts,1887480.39,59,GL-8043,Net 30,2026-04-18,good
+PO-000670,,"Mcclure, Ward and Lee",Consumer Goods,2312190.93,91,GL-1476,Net 30,2026-05-12,good
+PO-000095,V-0080,"Hensley, Powell and David",Industrial Equipment,2419257.42,358,GL-7421,2/10 Net 30,2026-03-09,good
+PO-000448,V-0173,White-Green,Consumer Goods,90634.8,123,GL-1004,Net 30,2026-03-10,good
+PO-000452,V-0030,"Snyder, Campos and Callahan",Automotive Parts,2007454.14,490,GL-9813,Net 45,2026-04-30,good
+PO-000086,V-0038,"Baker, Mason and White",Automotive Parts,640292.57,89,GL-3504,Net 30,2026-03-16,disputed
+PO-000498,V-0092,"Smith, Montoya and Evans",Consumer Goods,1811135.7,129,GL-1646,Net 45,2026-02-06,good
+PO-000595,V-0114,Gonzalez Group,Automotive Parts,440846.92,490,GL-2140,Net 60,2026-04-11,good
+PO-000700,V-0076,"Daniels, Adkins and Brown",Consumer Goods,1041633.38,350,,Net 45,2026-03-24,good
+PO-000339,V-0153,Manning Group,Automotive Parts,1522820.74,153,GL-2771,2/10 Net 30,2026-03-06,good
+PO-000858,V-0075,Novak PLC,Automotive Parts,1170813.82,41,GL-8825,Net 45,2026-02-06,disputed
+PO-000831,V-0149,Bryant Group,Industrial Equipment,448840.87,87,GL-9074,Net 45,2026-03-29,good
+PO-000089,V-0095,Campbell-Clark,Industrial Equipment,2079325.73,40,GL-2479,Net 30,2026-03-11,good
+PO-000966,V-0060,Gomez-Jenkins,Automotive Parts,2250660.92,174,GL-1750,Net 60,2026-03-26,good
+PO-000160,V-0122,Johnson-Carlson,Consumer Goods,1193882.58,103,GL-5706,Net 45,2026-02-25,late
+PO-000289,V-0067,Williams PLC,Automotive Parts,2293612.74,39,GL-2056,Net 30,2026-05-30,late
+PO-000133,V-0142,Riggs PLC,Consumer Goods,686490.36,321,GL-9740,2/10 Net 30,2026-04-24,good
+PO-000400,V-0165,Castaneda-Ashley,Automotive Parts,1534445.89,319,GL-1653,Net 60,2026-05-01,good
+PO-000527,V-0044,Allen-Allen,Consumer Goods,2469135.97,316,GL-8245,Net 45,2026-02-16,late
+PO-000293,V-0036,Rodriguez-Graham,Consumer Goods,1048377.44,330,GL-9614,2/10 Net 30,2026-02-08,good
+PO-000306,V-0020,"Reid, Ferguson and Sanchez",Consumer Goods,595370.81,164,GL-2453,Net 45,2026-05-11,good
+PO-000976,V-0012,Dudley Group,Industrial Equipment,1228936.86,479,GL-6569,Net 60,2026-06-02,late
+PO-000073,V-0147,Robinson-Brock,Consumer Goods,565784.66,220,,Net 60,2026-02-13,good
+PO-000927,V-0114,Gonzalez Group,Automotive Parts,1743828.68,455,GL-7627,Net 60,2026-02-18,good
+PO-000069,V-0066,Morton-Chase,Consumer Goods,936065.41,79,GL-8770,2/10 Net 30,2026-03-06,good
+PO-000534,V-0098,Davis Group,Consumer Goods,1271596.56,364,GL-6168,Net 60,2026-05-20,late
+PO-000597,V-0116,Walker Ltd,Automotive Parts,1328373.92,200,GL-8326,Net 30,2026-03-15,good
+PO-000581,V-0195,"Hernandez, Thompson and Boyd",Automotive Parts,780701.17,457,GL-6257,2/10 Net 30,2026-05-06,good
+PO-000446,V-0010,Abbott-Munoz,Consumer Goods,1811374.54,477,GL-9536,Net 30,2026-04-11,good
+PO-000753,V-0029,"Ross, Robinson and Bright",Industrial Equipment,1903642.91,161,GL-8633,2/10 Net 30,2026-05-17,late
+PO-000655,V-0152,"Simmons, Meadows and Griffin",Automotive Parts,160362.06,419,GL-2870,Net 45,2026-05-19,good
+PO-000053,V-0138,"Jackson, Miller and Robertson",Industrial Equipment,309410.05,189,GL-5295,Net 45,2026-03-07,good
+PO-000461,V-0176,King-Miller,Industrial Equipment,1939871.96,235,GL-9490,2/10 Net 30,2026-05-17,late
+PO-000188,V-0021,Gray-Mayo,Industrial Equipment,2305604.15,434,GL-2514,Net 30,2026-04-15,good
+PO-000304,V-0188,Vargas Ltd,Consumer Goods,1721401.85,66,GL-1029,Net 60,2026-05-10,good
+PO-000703,V-0171,Meadows PLC,Industrial Equipment,1742310.52,432,GL-8295,Net 45,2026-03-23,good
+PO-000717,V-0050,"Harris, Collins and Carney",Industrial Equipment,1226418.17,309,,Net 45,2026-03-16,disputed
+PO-000952,V-0009,Garcia-James,Consumer Goods,1866367.52,484,GL-7051,Net 60,2026-03-25,good
+PO-000499,V-0126,Smith-Frost,Automotive Parts,474844.7,96,GL-6696,Net 45,2026-03-24,good
+PO-000223,V-0178,Walker-Jones,Consumer Goods,1046042.58,19,GL-6890,Net 45,2026-02-20,late
+PO-000519,V-0148,"Holmes, Williams and Wright",Consumer Goods,954174.5,400,GL-6478,Net 45,2026-05-25,good
+PO-000262,V-0019,"Adams, Zuniga and Wong",Consumer Goods,1320952.11,7,GL-6185,Net 60,2026-04-16,good
+PO-000193,V-0082,Sandoval-Cunningham,Industrial Equipment,2285869.08,190,,Net 30,2026-04-22,disputed
+PO-000158,V-0158,"Miller, Hernandez and Reyes",Automotive Parts,1852357.0,123,GL-1831,2/10 Net 30,2026-05-01,late
+PO-000752,V-0047,Anderson Group,Consumer Goods,2086938.01,195,GL-4510,Net 60,2026-04-08,good
+PO-000140,V-0128,Diaz Inc,Automotive Parts,2489925.54,240,GL-6055,Net 60,2026-03-30,good
+PO-000876,V-0029,"Ross, Robinson and Bright",Industrial Equipment,2040012.57,357,GL-1439,2/10 Net 30,2026-05-09,late
+PO-000135,V-0197,Marshall-Petersen,Industrial Equipment,1430556.94,317,GL-1496,Net 30,2026-03-12,good
+PO-000277,V-0199,Ramirez Group,Automotive Parts,488958.35,462,GL-5016,Net 60,2026-03-24,good
+PO-000247,V-0174,Lewis-Murphy,Consumer Goods,982055.53,73,GL-5402,2/10 Net 30,2026-03-20,good
+PO-000162,V-0010,Abbott-Munoz,Consumer Goods,2492930.92,204,GL-9116,Net 30,2026-02-21,good
+PO-000765,V-0174,Lewis-Murphy,Consumer Goods,817726.24,156,GL-2578,2/10 Net 30,2026-03-14,good
+PO-000685,V-0076,"Daniels, Adkins and Brown",Consumer Goods,598036.46,47,GL-8860,Net 45,2026-05-30,good
+PO-000559,V-0002,Doyle Ltd,Automotive Parts,1520155.84,253,GL-4553,Net 30,2026-05-02,good
+PO-000504,V-0134,"Carroll, Sullivan and Bass",Consumer Goods,1647398.13,23,GL-3126,2/10 Net 30,2026-02-15,good
+PO-000575,V-0100,Walsh LLC,Industrial Equipment,468853.59,60,GL-6050,Net 30,2026-02-11,good
+PO-000060,V-0086,Smith PLC,Automotive Parts,609300.46,65,GL-4362,Net 30,2026-02-21,late
+PO-000625,V-0091,"Turner, Riggs and Roman",Automotive Parts,2390481.05,222,,Net 60,2026-03-15,disputed
+PO-000110,V-0075,Novak PLC,Automotive Parts,1073382.61,315,GL-4941,Net 45,2026-04-17,disputed
+PO-000706,V-0159,Mccarthy Inc,Industrial Equipment,2310367.04,365,GL-5673,2/10 Net 30,2026-03-25,good
+PO-000139,V-0099,Williams-Cook,Industrial Equipment,2160477.54,215,GL-3616,Net 60,2026-05-01,good
+PO-000267,V-0023,Perez Inc,Consumer Goods,2311607.07,60,GL-1901,Net 60,2026-04-04,good
+PO-000842,V-0020,"Reid, Ferguson and Sanchez",Consumer Goods,615770.51,256,GL-2545,Net 45,2026-03-07,good
+PO-000144,V-0160,Russell-Daniels,Automotive Parts,1701156.4,61,GL-2584,Net 30,2026-05-16,good
+PO-000083,V-0104,"Tran, Jordan and Williams",Industrial Equipment,52630.97,167,GL-8538,Net 45,2026-05-11,good
+PO-000691,,"Mcclure, Ward and Lee",Consumer Goods,277860.88,188,GL-1669,Net 30,2026-04-03,good
+PO-000028,V-0001,"Rodriguez, Figueroa and Sanchez",Automotive Parts,1644322.14,278,GL-7770,Net 60,2026-04-03,good
+PO-000873,V-0173,White-Green,Consumer Goods,2407872.46,346,GL-5958,Net 30,2026-04-12,good
+PO-000260,V-0154,Green-Wright,Automotive Parts,1500219.66,312,GL-1439,2/10 Net 30,2026-04-26,good
+PO-000704,V-0034,Frazier Inc,Automotive Parts,2245755.67,157,,Net 30,2026-05-11,good
+PO-000682,V-0012,Dudley Group,Industrial Equipment,100626.67,241,GL-9261,Net 60,2026-02-28,late
+PO-000901,V-0017,James Group,Automotive Parts,844668.02,59,GL-4714,Net 60,2026-03-14,good
+PO-000800,V-0061,"Brown, Valdez and Lucas",Automotive Parts,1499753.38,396,GL-6134,Net 60,2026-02-18,good
+PO-000332,V-0064,"West, Henderson and Ramirez",Consumer Goods,83161.08,26,GL-6904,2/10 Net 30,2026-02-04,good
+PO-000420,V-0039,Harrell LLC,Industrial Equipment,914863.67,115,GL-5767,Net 60,2026-02-07,good
+PO-000366,V-0024,Morales-Jones,Industrial Equipment,931869.07,176,GL-2865,Net 45,2026-05-09,disputed
+PO-000788,V-0133,"Bentley, Byrd and Orr",Consumer Goods,2156843.16,296,GL-4489,Net 60,2026-03-30,good
+PO-000356,V-0167,"Hurst, Freeman and Nelson",Consumer Goods,1980421.82,193,GL-5190,2/10 Net 30,2026-02-09,good
+PO-000896,V-0073,Henderson-Bernard,Industrial Equipment,1726898.52,45,GL-8911,Net 30,2026-03-09,late
+PO-000563,V-0093,"Garcia, Humphrey and Baker",Consumer Goods,2328733.81,48,GL-5903,2/10 Net 30,2026-02-23,good
+PO-000648,V-0050,"Harris, Collins and Carney",Industrial Equipment,63898.83,304,GL-9015,Net 45,2026-05-02,disputed
+PO-000934,V-0062,Powell LLC,Automotive Parts,2080656.35,156,GL-7926,Net 45,2026-03-01,good
+PO-000951,V-0009,Garcia-James,Consumer Goods,1866367.52,484,GL-7051,Net 60,2026-03-22,good
+PO-000708,V-0082,Sandoval-Cunningham,Industrial Equipment,1436525.66,226,GL-7056,Net 30,2026-04-29,disputed
+PO-000357,V-0168,Johnson-Rogers,Consumer Goods,2090381.96,25,GL-2897,Net 45,2026-03-05,good
+PO-000769,V-0114,Gonzalez Group,Automotive Parts,1149410.77,17,GL-5965,Net 60,2026-05-10,good
+PO-000052,V-0020,"Reid, Ferguson and Sanchez",Consumer Goods,352322.16,495,,Net 45,2026-05-04,good
+PO-000649,V-0165,Castaneda-Ashley,Automotive Parts,769673.33,274,,Net 60,2026-02-15,good
+PO-000187,V-0015,Williams and Sons,Industrial Equipment,1406183.68,496,GL-9683,Net 60,2026-04-09,good
+PO-000002,V-0145,Hernandez Ltd,Automotive Parts,1956697.05,178,,Net 60,2026-03-25,good
+PO-000393,V-0200,Christensen PLC,Consumer Goods,2151181.62,227,GL-4695,2/10 Net 30,2026-02-15,good
+PO-000502,V-0094,Newton and Sons,Automotive Parts,1940153.41,123,GL-2037,Net 30,2026-04-21,good
+PO-000664,,Diaz Inc,Automotive Parts,1530318.52,46,GL-5934,Net 60,2026-03-13,good
+PO-000564,V-0141,Hernandez Inc,Consumer Goods,162782.2,242,GL-2999,Net 60,2026-05-15,good
+PO-000177,V-0105,Nolan-Flynn,Automotive Parts,450363.33,70,GL-7887,Net 60,2026-02-23,good
+PO-000804,V-0122,Johnson-Carlson,Consumer Goods,1707004.75,494,GL-3374,Net 45,2026-04-27,late
+PO-000735,V-0176,King-Miller,Industrial Equipment,1999793.08,139,GL-6939,2/10 Net 30,2026-03-06,late
+PO-000907,V-0027,Baker and Sons,Automotive Parts,2059113.76,22,GL-2727,Net 60,2026-03-29,good
+PO-000644,V-0092,"Smith, Montoya and Evans",Consumer Goods,833932.56,156,GL-1904,Net 45,2026-04-11,good
+PO-000165,V-0184,"Higgins, Strickland and Martin",Consumer Goods,465904.57,378,GL-5833,Net 45,2026-04-19,good
+PO-000734,V-0047,Anderson Group,Consumer Goods,1911841.1,307,,Net 60,2026-02-25,good
+PO-000163,V-0003,"Mcclain, Miller and Henderson",Industrial Equipment,746331.33,309,GL-6489,Net 30,2026-05-19,good
+PO-000964,V-0115,Torres-Pope,Automotive Parts,372881.99,373,GL-2463,Net 60,2026-04-25,good
+PO-000693,V-0139,"Harvey, Davis and Crane",Automotive Parts,284337.42,245,,Net 60,2026-02-27,good
+PO-000605,,Anderson Group,Consumer Goods,1136258.7,218,GL-8373,Net 60,2026-03-23,good
+PO-000590,V-0008,"Henderson, Ramirez and Lewis",Automotive Parts,163880.31,58,GL-8842,Net 45,2026-04-18,late
+PO-000209,V-0084,"Edwards, Baker and Anderson",Industrial Equipment,74549.33,140,GL-8381,Net 45,2026-02-21,good
+PO-000272,V-0001,"Rodriguez, Figueroa and Sanchez",Automotive Parts,110572.75,442,GL-5006,Net 60,2026-05-31,good
+PO-000880,V-0109,Hancock and Sons,Consumer Goods,55031.16,86,GL-3497,Net 45,2026-02-09,good
+PO-000661,V-0046,Spence PLC,Consumer Goods,2315379.32,362,,Net 30,2026-03-10,good
+PO-000430,V-0042,George Group,Industrial Equipment,337242.76,263,GL-3406,Net 60,2026-05-27,good
+PO-000212,V-0114,Gonzalez Group,Automotive Parts,900113.78,139,GL-3170,Net 60,2026-05-19,good
+PO-000415,V-0040,"Romero, Gonzalez and Brooks",Consumer Goods,1414097.24,187,GL-6182,Net 30,2026-02-18,late
+PO-000542,V-0038,"Baker, Mason and White",Automotive Parts,1817835.29,392,GL-7783,Net 30,2026-04-22,disputed
+PO-000994,V-0143,Gibson Ltd,Industrial Equipment,1129629.13,1,GL-8612,Net 45,2026-02-18,good
+PO-000992,V-0163,"Smith, Gilmore and Johnston",Industrial Equipment,1251330.72,401,GL-7116,2/10 Net 30,2026-05-15,late
+PO-000814,V-0029,"Ross, Robinson and Bright",Industrial Equipment,394977.19,265,GL-3131,2/10 Net 30,2026-03-02,late
+PO-000783,V-0147,Robinson-Brock,Consumer Goods,1005367.37,116,GL-2506,Net 60,2026-03-14,good
+PO-000408,V-0073,Henderson-Bernard,Industrial Equipment,1913302.97,225,GL-7473,Net 30,2026-04-14,late
+PO-000238,V-0130,Cortez LLC,Industrial Equipment,1632847.87,210,GL-9056,Net 60,2026-03-06,good
+PO-000489,V-0009,Garcia-James,Consumer Goods,825956.49,432,GL-3393,Net 60,2026-02-25,good
+PO-000217,V-0086,Smith PLC,Automotive Parts,2104112.66,195,GL-6399,Net 30,2026-02-19,late
+PO-000793,V-0154,Green-Wright,Automotive Parts,590706.51,123,GL-3456,2/10 Net 30,2026-05-18,good
+PO-000190,V-0086,Smith PLC,Automotive Parts,758318.47,466,GL-4470,Net 30,2026-05-31,late
+PO-000977,V-0136,"Lawson, Morris and Ramos",Industrial Equipment,793797.4,132,GL-2878,Net 45,2026-05-21,good
+PO-000950,V-0033,"Ferrell, Rice and Maddox",Automotive Parts,1212168.62,235,GL-9408,2/10 Net 30,2026-05-17,good
+PO-000637,V-0166,Medina-Navarro,Industrial Equipment,1230397.21,74,GL-8065,2/10 Net 30,2026-03-24,late
+PO-000978,V-0136,"Lawson, Morris and Ramos",Industrial Equipment,793797.4,132,GL-2878,Net 45,2026-05-22,good
+PO-000514,V-0116,Walker Ltd,Automotive Parts,1119025.72,204,GL-1567,Net 30,2026-06-01,good
+PO-000365,V-0012,Dudley Group,Industrial Equipment,24675.98,71,GL-3793,Net 60,2026-03-09,late
+PO-000407,V-0150,"Schmidt, Hansen and Stewart",Consumer Goods,114269.38,435,GL-6860,Net 60,2026-05-23,good
+PO-000329,V-0083,Donovan-Harris,Automotive Parts,673915.24,214,GL-2462,Net 30,2026-03-16,good
+PO-000425,V-0068,Novak and Sons,Industrial Equipment,1446789.27,292,GL-7171,Net 60,2026-05-10,good
+PO-000042,V-0096,Harris-Walters,Automotive Parts,1077001.63,126,GL-7751,Net 60,2026-03-26,good
+PO-000874,V-0173,White-Green,Consumer Goods,2407872.46,346,GL-5958,Net 30,2026-04-13,good
+PO-000854,V-0024,Morales-Jones,Industrial Equipment,1891348.36,416,GL-4053,Net 45,2026-04-18,disputed
+PO-000271,V-0146,Stafford Inc,Automotive Parts,417620.04,81,GL-2685,Net 60,2026-04-30,good
+PO-000121,V-0164,Smith-Bell,Industrial Equipment,1015822.47,263,,2/10 Net 30,2026-02-19,late
+PO-000327,V-0013,Arnold Ltd,Industrial Equipment,1864501.67,472,GL-7102,2/10 Net 30,2026-04-28,late
+PO-000113,V-0161,Brown-Wall,Consumer Goods,259607.84,298,GL-6447,Net 60,2026-02-27,good
+PO-000749,,Wilkerson-Day,Consumer Goods,2049056.47,391,GL-9664,2/10 Net 30,2026-05-31,late
+PO-000560,V-0021,Gray-Mayo,Industrial Equipment,1503240.81,4,GL-9967,Net 30,2026-05-01,good
+PO-000877,V-0161,Brown-Wall,Consumer Goods,2145544.3,276,GL-2410,Net 60,2026-05-08,good
+PO-000650,V-0015,Williams and Sons,Industrial Equipment,844627.65,370,GL-7643,Net 60,2026-05-27,good
+PO-000899,V-0005,"Guzman, Hoffman and Baldwin",Automotive Parts,897287.49,134,GL-3598,Net 30,2026-04-17,good
+PO-000018,V-0054,"Robinson, Jones and Welch",Consumer Goods,1563974.82,136,GL-2330,Net 60,2026-03-09,good
+PO-000789,V-0137,"Lewis, Kennedy and Santana",Industrial Equipment,2022429.23,437,GL-8106,2/10 Net 30,2026-02-23,good
+PO-000894,V-0186,Johnston-Odonnell,Consumer Goods,1778607.27,492,GL-6902,Net 45,2026-04-10,good
+PO-000355,V-0187,Sanders-Espinoza,Consumer Goods,2462206.37,109,GL-1359,2/10 Net 30,2026-02-28,good
+PO-000300,V-0123,Chandler-Edwards,Industrial Equipment,2208.4,470,,Net 30,2026-03-15,good
+PO-000885,V-0125,Scott Ltd,Consumer Goods,999501.09,263,GL-8993,Net 60,2026-03-18,good
+PO-000634,,Walker-Jones,Consumer Goods,2258527.04,395,GL-6298,Net 45,2026-02-23,late
+PO-000374,V-0097,Wagner-King,Consumer Goods,1008490.85,121,GL-8521,Net 30,2026-05-22,good
+PO-000360,V-0028,"Hoffman, Baker and Richards",Consumer Goods,1244598.79,312,GL-5308,2/10 Net 30,2026-05-07,good
+PO-000404,V-0019,"Adams, Zuniga and Wong",Consumer Goods,1867353.62,79,,Net 60,2026-05-29,good
+PO-000341,V-0154,Green-Wright,Automotive Parts,1010544.02,164,GL-3292,2/10 Net 30,2026-03-06,good
+PO-000956,V-0076,"Daniels, Adkins and Brown",Consumer Goods,1215070.89,406,GL-3328,Net 45,2026-05-14,good
+PO-000851,V-0095,Campbell-Clark,Industrial Equipment,1281876.74,251,GL-7358,Net 30,2026-04-05,good
+PO-000970,V-0050,"Harris, Collins and Carney",Industrial Equipment,2387943.23,278,GL-1866,Net 45,2026-03-21,disputed
+PO-000399,V-0193,Short-Garcia,Industrial Equipment,1545892.36,244,GL-1144,Net 45,2026-03-22,late
+PO-000050,V-0076,"Daniels, Adkins and Brown",Consumer Goods,817134.45,213,GL-4289,Net 45,2026-05-10,good
+PO-000826,V-0118,Rasmussen LLC,Industrial Equipment,214803.82,241,GL-6296,Net 45,2026-05-15,disputed
+PO-000487,V-0137,"Lewis, Kennedy and Santana",Industrial Equipment,55816.15,498,GL-5622,2/10 Net 30,2026-05-19,good
+PO-000712,V-0181,Wells Inc,Consumer Goods,739244.39,459,,Net 45,2026-04-25,good
+PO-000660,,"Mitchell, Nelson and Flores",Automotive Parts,940639.57,81,GL-8978,Net 30,2026-05-30,good
+PO-000928,V-0114,Gonzalez Group,Automotive Parts,1743828.68,455,GL-7627,Net 60,2026-02-18,good
+PO-000119,V-0083,Donovan-Harris,Automotive Parts,256943.47,168,GL-5843,Net 30,2026-03-09,good
+PO-000413,V-0018,"Flowers, Martin and Kelly",Automotive Parts,627093.69,102,GL-8982,Net 30,2026-03-01,disputed
+PO-000173,V-0039,Harrell LLC,Industrial Equipment,411760.62,438,GL-8239,Net 60,2026-03-27,good
+PO-000315,V-0122,Johnson-Carlson,Consumer Goods,2109500.8,158,GL-7512,Net 45,2026-02-21,late
+PO-000164,V-0035,"Dyer, Potter and Mack",Automotive Parts,2127723.82,240,GL-4159,2/10 Net 30,2026-04-28,good
+PO-000954,V-0095,Campbell-Clark,Industrial Equipment,1429626.0,21,GL-3511,Net 30,2026-03-29,good
+PO-000455,V-0068,Novak and Sons,Industrial Equipment,621019.89,48,GL-6603,Net 60,2026-04-11,good
+PO-000663,V-0062,Powell LLC,Automotive Parts,2345254.98,313,GL-1616,Net 45,2026-03-05,good
+PO-000849,V-0042,George Group,Industrial Equipment,971563.0,207,GL-3525,Net 60,2026-04-26,good
+PO-000107,V-0121,White-Estes,Industrial Equipment,1121779.38,3,GL-2298,Net 60,2026-02-06,good
+PO-000681,V-0149,Bryant Group,Industrial Equipment,556405.32,475,,Net 45,2026-03-18,good
+PO-000085,V-0163,"Smith, Gilmore and Johnston",Industrial Equipment,285509.59,262,GL-6724,2/10 Net 30,2026-05-08,late
+PO-000416,V-0057,"Washington, Ryan and Cummings",Industrial Equipment,1780641.72,329,GL-5533,Net 45,2026-04-07,good
+PO-000210,V-0175,Ramirez-Bean,Industrial Equipment,1464894.87,195,GL-5839,Net 30,2026-05-22,late
+PO-000515,V-0078,Yu Inc,Consumer Goods,16918.79,114,GL-6159,Net 60,2026-05-05,good
+PO-000855,V-0132,Spencer-Lee,Consumer Goods,854691.25,238,GL-4673,Net 30,2026-03-07,good
+PO-000473,V-0102,"Patterson, Smith and Jones",Automotive Parts,678484.63,228,GL-6950,Net 45,2026-02-22,disputed
+PO-000040,V-0010,Abbott-Munoz,Consumer Goods,1543839.92,121,GL-5708,Net 30,2026-03-13,good
+PO-000645,V-0088,Anderson-Bailey,Industrial Equipment,201601.73,236,GL-5750,Net 45,2026-02-24,good
+PO-000776,V-0064,"West, Henderson and Ramirez",Consumer Goods,586937.91,160,GL-2391,2/10 Net 30,2026-03-18,good
+PO-000449,V-0102,"Patterson, Smith and Jones",Automotive Parts,1013924.69,103,GL-1251,Net 45,2026-03-27,disputed
+PO-000253,V-0093,"Garcia, Humphrey and Baker",Consumer Goods,626348.0,191,GL-3711,2/10 Net 30,2026-03-08,good
+PO-000112,V-0100,Walsh LLC,Industrial Equipment,2452608.04,130,GL-1266,Net 30,2026-02-26,good
+PO-000775,V-0110,Johnson-Doyle,Industrial Equipment,863185.0,183,GL-6755,2/10 Net 30,2026-04-10,good
+PO-000733,V-0092,"Smith, Montoya and Evans",Consumer Goods,122262.89,150,GL-2258,Net 45,2026-03-26,good
+PO-000554,V-0183,Jackson-Lawson,Industrial Equipment,1991317.31,368,GL-3024,Net 30,2026-02-28,late
+PO-000333,V-0163,"Smith, Gilmore and Johnston",Industrial Equipment,2307722.38,349,GL-4963,2/10 Net 30,2026-05-29,late
+PO-000123,V-0095,Campbell-Clark,Industrial Equipment,930347.44,391,GL-3255,Net 30,2026-05-23,good
+PO-000612,V-0121,White-Estes,Industrial Equipment,1135359.91,464,,Net 60,2026-04-02,good
+PO-000811,V-0179,"Williams, Johnson and Wright",Consumer Goods,652794.7,34,GL-7895,2/10 Net 30,2026-04-17,good
+PO-000830,V-0098,Davis Group,Consumer Goods,756617.14,203,GL-7076,Net 60,2026-03-08,late
+PO-000094,V-0186,Johnston-Odonnell,Consumer Goods,2128989.87,494,GL-3463,Net 45,2026-02-05,good
+PO-000589,V-0158,"Miller, Hernandez and Reyes",Automotive Parts,645502.89,187,GL-4004,2/10 Net 30,2026-04-12,late
+PO-000381,V-0107,"Wright, Garcia and Deleon",Consumer Goods,116727.65,325,GL-3018,Net 60,2026-02-14,good
+PO-000773,V-0197,Marshall-Petersen,Industrial Equipment,2444468.47,165,GL-1461,Net 30,2026-05-25,good
+PO-000092,V-0113,"Rodriguez, Brennan and Garrison",Consumer Goods,2477469.56,269,GL-3600,Net 45,2026-03-27,good
+PO-000834,V-0068,Novak and Sons,Industrial Equipment,1532522.46,390,GL-5321,Net 60,2026-02-03,good
+PO-000548,V-0156,Hill Inc,Consumer Goods,1838461.78,195,GL-6126,2/10 Net 30,2026-03-01,good
+PO-000090,V-0190,"Burke, Martinez and Riggs",Automotive Parts,2239743.98,231,GL-4084,Net 60,2026-02-05,good
+PO-000334,V-0122,Johnson-Carlson,Consumer Goods,1467407.18,180,GL-3679,Net 45,2026-04-18,late
+PO-000578,V-0124,"Joyce, Wilson and Lam",Automotive Parts,1831236.45,269,GL-6363,2/10 Net 30,2026-04-23,good
+PO-000459,V-0127,"Mcdaniel, Bentley and Mclaughlin",Automotive Parts,2245353.94,452,GL-5501,2/10 Net 30,2026-02-07,good
+PO-000867,V-0068,Novak and Sons,Industrial Equipment,853665.28,471,GL-4066,Net 60,2026-02-10,good
+PO-000592,V-0137,"Lewis, Kennedy and Santana",Industrial Equipment,1152706.64,303,GL-4908,2/10 Net 30,2026-04-10,good
+PO-000047,V-0169,"Yates, Ramsey and Pittman",Consumer Goods,989816.45,5,GL-1803,Net 30,2026-03-21,good
+PO-000921,V-0198,"Adams, Christian and Rivas",Automotive Parts,411229.54,32,GL-1607,Net 60,2026-04-12,late
+PO-000760,V-0087,"Ferrell, Jones and Lewis",Automotive Parts,501058.61,433,GL-3011,2/10 Net 30,2026-04-11,good
+PO-000428,V-0048,"Martin, Rose and Obrien",Automotive Parts,393814.7,309,GL-2938,Net 30,2026-03-02,good
+PO-000529,V-0038,"Baker, Mason and White",Automotive Parts,2171946.5,420,GL-1225,Net 30,2026-04-26,disputed
+PO-000702,V-0134,"Carroll, Sullivan and Bass",Consumer Goods,1611857.74,211,GL-6616,2/10 Net 30,2026-03-19,good
+PO-000368,V-0041,Ryan PLC,Automotive Parts,259730.91,467,GL-8908,2/10 Net 30,2026-03-18,good
+PO-000627,,Salazar-Ball,Automotive Parts,1926357.97,267,GL-3947,Net 60,2026-04-19,good
+PO-000270,V-0068,Novak and Sons,Industrial Equipment,1780951.96,296,GL-2262,Net 60,2026-03-13,good
+PO-000943,V-0106,Nolan and Sons,Consumer Goods,205326.94,32,GL-3130,Net 30,2026-04-08,good
+PO-000205,V-0020,"Reid, Ferguson and Sanchez",Consumer Goods,1711229.64,144,,Net 45,2026-02-06,good
+PO-000375,V-0115,Torres-Pope,Automotive Parts,790495.79,255,GL-1291,Net 60,2026-02-26,good
+PO-000652,,Gomez-Jenkins,Automotive Parts,2312077.12,19,GL-3319,Net 60,2026-02-27,good
+PO-000074,V-0070,Hancock Inc,Industrial Equipment,1756895.58,159,GL-6567,2/10 Net 30,2026-02-04,good
+PO-000720,V-0190,"Burke, Martinez and Riggs",Automotive Parts,2481496.62,412,GL-5728,Net 60,2026-04-06,good
+PO-000541,V-0198,"Adams, Christian and Rivas",Automotive Parts,363308.41,478,GL-3589,Net 60,2026-03-21,late
+PO-000496,V-0195,"Hernandez, Thompson and Boyd",Automotive Parts,1563018.26,31,GL-3521,2/10 Net 30,2026-04-17,good
+PO-000235,V-0062,Powell LLC,Automotive Parts,763797.32,94,GL-3316,Net 45,2026-04-15,good
+PO-000258,V-0161,Brown-Wall,Consumer Goods,1870797.96,471,GL-8248,Net 60,2026-04-10,good
+PO-000609,,Vargas Ltd,Consumer Goods,1316256.93,440,GL-5578,Net 60,2026-02-25,good
+PO-000396,V-0083,Donovan-Harris,Automotive Parts,1492402.39,397,GL-5934,Net 30,2026-02-02,good
+PO-000322,V-0187,Sanders-Espinoza,Consumer Goods,2285477.76,35,GL-7358,2/10 Net 30,2026-05-21,good
+PO-000295,V-0007,Blake and Sons,Industrial Equipment,797534.48,113,GL-5602,Net 60,2026-05-29,good
+PO-000472,V-0019,"Adams, Zuniga and Wong",Consumer Goods,198240.26,176,GL-6136,Net 60,2026-05-03,good
+PO-000082,V-0118,Rasmussen LLC,Industrial Equipment,2302945.51,442,GL-8033,Net 45,2026-04-22,disputed
+PO-000441,V-0138,"Jackson, Miller and Robertson",Industrial Equipment,1059192.09,188,GL-5514,Net 45,2026-03-15,good
+PO-000222,V-0040,"Romero, Gonzalez and Brooks",Consumer Goods,1788233.36,405,GL-2211,Net 30,2026-04-14,late
+PO-000159,V-0085,"Evans, Stewart and Walton",Industrial Equipment,1793536.46,52,GL-3252,Net 30,2026-03-06,good
+PO-000517,V-0024,Morales-Jones,Industrial Equipment,1426432.66,292,GL-4562,Net 45,2026-02-04,disputed
+PO-000509,V-0060,Gomez-Jenkins,Automotive Parts,1329386.8,98,GL-9621,Net 60,2026-05-08,good
+PO-000617,,"Ramirez, Strickland and Washington",Industrial Equipment,436947.31,303,GL-3476,Net 45,2026-02-27,good
+PO-000912,V-0094,Newton and Sons,Automotive Parts,836851.51,71,GL-4307,Net 30,2026-05-17,good
+PO-000797,V-0081,"Sanchez, Wheeler and Harvey",Consumer Goods,1504198.55,444,GL-7668,Net 45,2026-05-24,good
+PO-000647,,Curry Inc,Consumer Goods,898473.17,44,GL-8175,Net 60,2026-02-08,good
+PO-000780,V-0126,Smith-Frost,Automotive Parts,250591.68,346,GL-6504,Net 45,2026-05-06,good
+PO-000551,V-0074,"Stanley, Tucker and Lee",Industrial Equipment,1153637.24,217,GL-1893,Net 30,2026-04-25,good
+PO-000567,V-0162,Stein-Silva,Consumer Goods,1244603.92,414,,2/10 Net 30,2026-05-09,disputed
+PO-000767,V-0067,Williams PLC,Automotive Parts,1356324.07,415,GL-9856,Net 30,2026-02-11,late
+PO-000081,V-0181,Wells Inc,Consumer Goods,575661.73,287,GL-6802,Net 45,2026-02-15,good
+PO-000376,V-0001,"Rodriguez, Figueroa and Sanchez",Automotive Parts,2064858.94,406,GL-5990,Net 60,2026-03-16,good
+PO-000643,V-0099,Williams-Cook,Industrial Equipment,2385411.29,419,GL-8898,Net 60,2026-02-22,good
+PO-000168,V-0078,Yu Inc,Consumer Goods,1456360.65,294,GL-5285,Net 60,2026-05-31,good
+PO-000363,V-0026,Wilkerson-Day,Consumer Goods,2261996.07,330,GL-8483,2/10 Net 30,2026-05-03,late
+PO-000824,V-0049,Hickman Ltd,Consumer Goods,1046118.31,210,GL-3391,Net 30,2026-02-20,good
+PO-000869,V-0173,White-Green,Consumer Goods,266273.48,274,GL-1095,Net 30,2026-05-30,good
+PO-000960,V-0012,Dudley Group,Industrial Equipment,1044229.1,294,GL-8411,Net 60,2026-04-26,late
+PO-000030,V-0162,Stein-Silva,Consumer Goods,1522374.73,123,GL-3594,2/10 Net 30,2026-03-03,disputed
+PO-000233,V-0068,Novak and Sons,Industrial Equipment,1676918.22,251,GL-6134,Net 60,2026-03-26,good
+PO-000996,V-0124,"Joyce, Wilson and Lam",Automotive Parts,683620.7,129,GL-7228,2/10 Net 30,2026-02-15,good
+PO-000726,V-0144,"Lee, Horton and Snyder",Industrial Equipment,1849770.13,115,,2/10 Net 30,2026-05-29,good
+PO-000405,V-0065,Baxter Inc,Automotive Parts,1395431.47,295,GL-4729,2/10 Net 30,2026-02-16,good
+PO-000840,V-0047,Anderson Group,Consumer Goods,2087466.67,384,GL-5469,Net 60,2026-03-28,good
+PO-000524,V-0034,Frazier Inc,Automotive Parts,1905201.28,247,GL-4245,Net 30,2026-03-22,good
+PO-000728,V-0177,Curry Inc,Consumer Goods,1612142.22,15,GL-5541,Net 60,2026-05-17,good
+PO-000632,V-0145,Hernandez Ltd,Automotive Parts,2008098.56,95,,Net 60,2026-02-07,good
+PO-000373,V-0043,Rodriguez LLC,Automotive Parts,187625.67,252,GL-4946,Net 30,2026-04-21,disputed
+PO-000036,V-0191,Reed Group,Automotive Parts,1182704.14,468,GL-7246,Net 30,2026-02-18,good
+PO-000102,V-0108,Dickson-Brady,Consumer Goods,2415687.25,419,GL-3267,Net 45,2026-05-07,good
+PO-000096,V-0097,Wagner-King,Consumer Goods,1608911.41,169,GL-3093,Net 30,2026-02-17,good
+PO-000014,V-0004,Davis and Sons,Automotive Parts,1435373.52,241,GL-8216,Net 30,2026-04-01,good
+PO-000889,V-0166,Medina-Navarro,Industrial Equipment,867236.9,358,GL-1340,2/10 Net 30,2026-04-07,late
+PO-000480,V-0124,"Joyce, Wilson and Lam",Automotive Parts,1349400.47,413,GL-8239,2/10 Net 30,2026-05-21,good
+PO-000678,,Ryan PLC,Automotive Parts,1973972.64,327,GL-3784,2/10 Net 30,2026-03-15,good
+PO-000503,V-0128,Diaz Inc,Automotive Parts,1914452.37,79,GL-5638,Net 60,2026-03-15,good
+PO-000091,V-0116,Walker Ltd,Automotive Parts,259202.94,461,GL-6626,Net 30,2026-02-14,good
+PO-000284,V-0081,"Sanchez, Wheeler and Harvey",Consumer Goods,1016578.12,275,GL-4401,Net 45,2026-04-17,good
+PO-000484,V-0057,"Washington, Ryan and Cummings",Industrial Equipment,657819.2,217,GL-4924,Net 45,2026-03-13,good
+PO-000882,V-0116,Walker Ltd,Automotive Parts,1463273.06,104,GL-7418,Net 30,2026-04-25,good
+PO-000920,V-0038,"Baker, Mason and White",Automotive Parts,1925494.58,368,GL-9476,Net 30,2026-02-20,disputed
+PO-000582,V-0198,"Adams, Christian and Rivas",Automotive Parts,1103068.5,61,GL-3446,Net 60,2026-04-28,late
+PO-000156,V-0102,"Patterson, Smith and Jones",Automotive Parts,2046034.46,489,GL-3399,Net 45,2026-02-23,disputed
+PO-000328,V-0126,Smith-Frost,Automotive Parts,2145657.84,351,GL-4734,Net 45,2026-05-20,good
+PO-000816,V-0152,"Simmons, Meadows and Griffin",Automotive Parts,2067008.14,410,GL-4254,Net 45,2026-04-26,good
+PO-000292,V-0159,Mccarthy Inc,Industrial Equipment,1542634.42,332,GL-9173,2/10 Net 30,2026-04-25,good
+PO-000483,V-0141,Hernandez Inc,Consumer Goods,934422.87,211,GL-8161,Net 60,2026-02-09,good
+PO-000680,V-0072,House-Glover,Automotive Parts,36752.39,220,,2/10 Net 30,2026-02-27,good
+PO-000683,,Figueroa PLC,Industrial Equipment,1198433.71,409,GL-2605,Net 60,2026-03-04,good
+PO-000423,V-0068,Novak and Sons,Industrial Equipment,923903.25,22,GL-4387,Net 60,2026-03-08,good
+PO-000730,V-0122,Johnson-Carlson,Consumer Goods,2435659.74,419,GL-7114,Net 45,2026-05-17,late
+PO-000274,V-0020,"Reid, Ferguson and Sanchez",Consumer Goods,1429054.14,62,GL-1862,Net 45,2026-03-29,good
+PO-000033,V-0071,Gray Group,Automotive Parts,1931801.49,438,GL-6568,Net 60,2026-04-09,good
+PO-000467,V-0144,"Lee, Horton and Snyder",Industrial Equipment,2146325.71,25,GL-2621,2/10 Net 30,2026-04-12,good
+PO-000922,V-0198,"Adams, Christian and Rivas",Automotive Parts,411229.54,32,GL-1607,Net 60,2026-04-12,late
+PO-000196,V-0188,Vargas Ltd,Consumer Goods,1987541.3,87,GL-9954,Net 60,2026-05-15,good
+PO-000613,,Novak PLC,Automotive Parts,419186.65,356,GL-5981,Net 45,2026-02-03,disputed
+PO-000294,V-0183,Jackson-Lawson,Industrial Equipment,898100.72,279,GL-8940,Net 30,2026-02-21,late
+PO-000312,V-0105,Nolan-Flynn,Automotive Parts,1743143.16,370,GL-9849,Net 60,2026-02-03,good
+PO-000766,V-0197,Marshall-Petersen,Industrial Equipment,1230722.69,239,GL-5809,Net 30,2026-05-07,good
+PO-000323,V-0004,Davis and Sons,Automotive Parts,1966483.32,320,GL-9561,Net 30,2026-03-18,good
+PO-000606,V-0048,"Martin, Rose and Obrien",Automotive Parts,1062217.26,4,GL-9161,Net 30,2026-03-20,good
+PO-000170,V-0057,"Washington, Ryan and Cummings",Industrial Equipment,548211.94,69,GL-3509,Net 45,2026-04-01,good
+PO-000079,V-0079,Jones Inc,Consumer Goods,114020.7,203,GL-1897,Net 60,2026-03-17,late
+PO-000754,V-0127,"Mcdaniel, Bentley and Mclaughlin",Automotive Parts,1905803.06,361,GL-1665,2/10 Net 30,2026-04-26,good
+PO-000980,V-0047,Anderson Group,Consumer Goods,639258.54,46,GL-6026,Net 60,2026-05-14,good
+PO-000622,V-0103,"Mckee, Gardner and Davenport",Automotive Parts,1190841.74,244,GL-9724,Net 45,2026-02-26,good
+PO-000012,V-0195,"Hernandez, Thompson and Boyd",Automotive Parts,1311829.85,145,,2/10 Net 30,2026-05-20,good
+PO-000435,V-0046,Spence PLC,Consumer Goods,1189935.03,315,GL-1639,Net 30,2026-03-17,good
+PO-000659,V-0142,Riggs PLC,Consumer Goods,412932.81,125,GL-1666,2/10 Net 30,2026-02-03,good
+PO-000887,V-0109,Hancock and Sons,Consumer Goods,1441220.18,284,GL-5388,Net 45,2026-05-24,good
+PO-000276,V-0075,Novak PLC,Automotive Parts,1409734.95,156,GL-4974,Net 45,2026-02-27,disputed
+PO-000354,V-0035,"Dyer, Potter and Mack",Automotive Parts,857160.73,462,GL-6885,2/10 Net 30,2026-03-31,good
+PO-000755,V-0030,"Snyder, Campos and Callahan",Automotive Parts,962260.4,234,GL-6111,Net 45,2026-03-17,good
+PO-000457,V-0068,Novak and Sons,Industrial Equipment,517343.19,104,GL-5091,Net 60,2026-02-15,good
+PO-000469,V-0106,Nolan and Sons,Consumer Goods,303533.1,445,GL-4259,Net 30,2026-03-07,good
+PO-000908,V-0027,Baker and Sons,Automotive Parts,2059113.76,22,GL-2727,Net 60,2026-03-29,good
+PO-000218,V-0155,"Ramirez, Strickland and Washington",Industrial Equipment,2368223.67,103,GL-6147,Net 45,2026-04-01,good
+PO-000965,V-0060,Gomez-Jenkins,Automotive Parts,2250660.92,174,GL-1750,Net 60,2026-03-24,good
+PO-000116,V-0193,Short-Garcia,Industrial Equipment,1617427.8,147,GL-1783,Net 45,2026-04-17,late
+PO-000174,V-0131,"Parker, Ortiz and Powell",Automotive Parts,1113983.99,29,GL-3161,Net 60,2026-04-04,disputed
+PO-000935,V-0161,Brown-Wall,Consumer Goods,1268994.69,64,GL-3043,Net 60,2026-05-26,good
+PO-000809,V-0105,Nolan-Flynn,Automotive Parts,1973398.84,141,GL-2312,Net 60,2026-02-11,good
+PO-000812,V-0189,Garcia LLC,Consumer Goods,817257.47,356,GL-1853,Net 30,2026-05-29,late
+PO-000991,V-0163,"Smith, Gilmore and Johnston",Industrial Equipment,1251330.72,401,GL-7116,2/10 Net 30,2026-05-14,late
+PO-000939,V-0171,Meadows PLC,Industrial Equipment,1962080.76,367,GL-3293,Net 45,2026-03-20,good
+PO-000157,V-0114,Gonzalez Group,Automotive Parts,1640102.14,383,GL-4505,Net 60,2026-04-01,good
+PO-000066,V-0021,Gray-Mayo,Industrial Equipment,805618.49,76,GL-3067,Net 30,2026-05-24,good
+PO-000296,V-0060,Gomez-Jenkins,Automotive Parts,2434962.66,52,GL-4951,Net 60,2026-05-01,good
+PO-000072,V-0055,Jones Inc,Industrial Equipment,387248.07,247,GL-2773,2/10 Net 30,2026-05-04,good
+PO-000192,V-0167,"Hurst, Freeman and Nelson",Consumer Goods,898469.26,134,GL-9401,2/10 Net 30,2026-04-16,good
+PO-000016,V-0145,Hernandez Ltd,Automotive Parts,2372839.54,44,GL-2940,Net 60,2026-05-01,good
+PO-000286,V-0064,"West, Henderson and Ramirez",Consumer Goods,2421015.81,203,,2/10 Net 30,2026-03-28,good
+PO-000231,V-0189,Garcia LLC,Consumer Goods,1535460.29,102,GL-8037,Net 30,2026-04-05,late
+PO-000547,V-0113,"Rodriguez, Brennan and Garrison",Consumer Goods,2167888.94,251,GL-6323,Net 45,2026-03-05,good
+PO-000742,,Burton Ltd,Industrial Equipment,556283.44,439,GL-3332,Net 60,2026-03-05,good
+PO-000214,V-0186,Johnston-Odonnell,Consumer Goods,2252889.54,464,GL-9537,Net 45,2026-05-01,good
+PO-000358,V-0122,Johnson-Carlson,Consumer Goods,1754819.6,106,GL-1152,Net 45,2026-03-05,late
+PO-000545,V-0096,Harris-Walters,Automotive Parts,460349.21,199,,Net 60,2026-03-31,good
+PO-000220,V-0145,Hernandez Ltd,Automotive Parts,499900.22,280,GL-1440,Net 60,2026-05-09,good
+PO-000097,V-0005,"Guzman, Hoffman and Baldwin",Automotive Parts,906812.87,93,GL-6598,Net 30,2026-05-05,good
+PO-000538,V-0088,Anderson-Bailey,Industrial Equipment,2242989.7,337,GL-2438,Net 45,2026-05-15,good
+PO-000675,,Spence PLC,Consumer Goods,968632.09,70,GL-4181,Net 30,2026-04-04,good
+PO-000543,V-0049,Hickman Ltd,Consumer Goods,267375.2,95,GL-5372,Net 30,2026-05-29,good
+PO-000886,V-0125,Scott Ltd,Consumer Goods,999501.09,263,GL-8993,Net 60,2026-03-18,good
+PO-000237,V-0116,Walker Ltd,Automotive Parts,1548715.24,444,GL-1157,Net 30,2026-04-17,good
+PO-000843,V-0175,Ramirez-Bean,Industrial Equipment,2453345.52,63,GL-7120,Net 30,2026-04-12,late
+PO-000370,V-0017,James Group,Automotive Parts,654401.36,161,GL-9598,Net 60,2026-05-31,good
+PO-000999,V-0179,"Williams, Johnson and Wright",Consumer Goods,307880.92,72,GL-5578,2/10 Net 30,2026-03-01,good
+PO-000512,V-0141,Hernandez Inc,Consumer Goods,2478661.75,167,GL-7090,Net 60,2026-02-13,good
+PO-000283,V-0070,Hancock Inc,Industrial Equipment,584411.26,484,GL-3230,2/10 Net 30,2026-05-07,good
+PO-000497,V-0082,Sandoval-Cunningham,Industrial Equipment,2454198.44,404,GL-6690,Net 30,2026-03-11,disputed
+PO-000301,V-0038,"Baker, Mason and White",Automotive Parts,1466729.63,470,GL-2817,Net 30,2026-05-14,disputed
+PO-000265,V-0138,"Jackson, Miller and Robertson",Industrial Equipment,1344369.57,79,GL-2369,Net 45,2026-04-27,good
+PO-000561,V-0015,Williams and Sons,Industrial Equipment,1633365.56,19,GL-1531,Net 60,2026-05-14,good
+PO-000933,V-0062,Powell LLC,Automotive Parts,2080656.35,156,GL-7926,Net 45,2026-03-01,good
+PO-000658,V-0086,Smith PLC,Automotive Parts,158523.11,141,,Net 30,2026-05-14,late
+PO-000537,V-0129,"Mccall, Hanson and Alvarado",Industrial Equipment,690057.76,32,GL-5221,2/10 Net 30,2026-03-13,good
+PO-000913,V-0122,Johnson-Carlson,Consumer Goods,853629.51,259,GL-2396,Net 45,2026-05-11,late
+PO-000565,V-0179,"Williams, Johnson and Wright",Consumer Goods,523022.93,30,GL-9666,2/10 Net 30,2026-05-19,good
+PO-000494,V-0071,Gray Group,Automotive Parts,1461949.8,203,GL-4982,Net 60,2026-02-20,good
+PO-000973,V-0181,Wells Inc,Consumer Goods,2097374.14,297,GL-2386,Net 45,2026-04-06,good
+PO-000444,V-0103,"Mckee, Gardner and Davenport",Automotive Parts,1965309.77,411,GL-1852,Net 45,2026-03-23,good
+PO-000813,V-0165,Castaneda-Ashley,Automotive Parts,340662.51,206,GL-6006,Net 60,2026-05-07,good
+PO-000390,V-0177,Curry Inc,Consumer Goods,1961001.32,105,GL-9866,Net 60,2026-02-25,good
+PO-000571,V-0087,"Ferrell, Jones and Lewis",Automotive Parts,2305738.27,246,GL-8774,2/10 Net 30,2026-02-04,good
+PO-000335,V-0099,Williams-Cook,Industrial Equipment,124602.78,438,GL-4511,Net 60,2026-03-20,good
+PO-000242,V-0168,Johnson-Rogers,Consumer Goods,1878488.06,153,GL-1528,Net 45,2026-02-10,good
+PO-000640,V-0164,Smith-Bell,Industrial Equipment,2668.67,20,GL-7397,2/10 Net 30,2026-03-08,late
+PO-000577,V-0010,Abbott-Munoz,Consumer Goods,1944587.08,468,GL-8270,Net 30,2026-05-21,good
+PO-000722,V-0122,Johnson-Carlson,Consumer Goods,2470961.88,269,,Net 45,2026-04-20,late
+PO-000297,V-0057,"Washington, Ryan and Cummings",Industrial Equipment,1439442.43,409,GL-6813,Net 45,2026-04-13,good
+PO-000751,V-0182,"Gould, Marshall and Scott",Automotive Parts,1187051.4,358,GL-4033,Net 30,2026-03-18,late
+PO-000588,V-0179,"Williams, Johnson and Wright",Consumer Goods,1170955.63,234,GL-8625,2/10 Net 30,2026-04-23,good
+PO-000686,,Rasmussen LLC,Industrial Equipment,2144876.32,383,GL-1399,Net 45,2026-03-19,disputed
+PO-000401,V-0186,Johnston-Odonnell,Consumer Goods,707431.07,467,GL-7143,Net 45,2026-03-27,good
+PO-000967,V-0043,Rodriguez LLC,Automotive Parts,1768167.96,293,GL-6060,Net 30,2026-03-13,disputed
+PO-000422,V-0145,Hernandez Ltd,Automotive Parts,1648703.56,496,GL-8921,Net 60,2026-05-14,good
+PO-000145,V-0094,Newton and Sons,Automotive Parts,1887535.45,102,GL-9341,Net 30,2026-03-16,good
+PO-000154,V-0077,"Woods, Calhoun and Schmidt",Automotive Parts,562555.16,499,GL-5735,Net 45,2026-04-24,late
+PO-000395,V-0143,Gibson Ltd,Industrial Equipment,660966.87,83,,Net 45,2026-03-19,good
+PO-000971,V-0005,"Guzman, Hoffman and Baldwin",Automotive Parts,301147.8,480,GL-3944,Net 30,2026-03-25,good
+PO-000591,V-0155,"Ramirez, Strickland and Washington",Industrial Equipment,1436908.31,261,GL-7646,Net 45,2026-05-19,good
+PO-000279,V-0187,Sanders-Espinoza,Consumer Goods,769122.84,106,GL-4902,2/10 Net 30,2026-03-26,good
+PO-000705,,"Stanley, Tucker and Lee",Industrial Equipment,1924489.47,25,GL-6785,Net 30,2026-05-14,good
+PO-000931,V-0131,"Parker, Ortiz and Powell",Automotive Parts,1379688.74,267,GL-3621,Net 60,2026-04-19,disputed
+PO-000940,V-0171,Meadows PLC,Industrial Equipment,1962080.76,367,GL-3293,Net 45,2026-03-21,good
+PO-000850,V-0111,Patton-Jenkins,Automotive Parts,1839855.27,472,GL-3151,Net 30,2026-04-23,good
+PO-000673,V-0061,"Brown, Valdez and Lucas",Automotive Parts,1844500.79,446,,Net 60,2026-05-07,good
+PO-000310,V-0097,Wagner-King,Consumer Goods,402680.79,39,GL-2525,Net 30,2026-03-23,good
+PO-000942,V-0133,"Bentley, Byrd and Orr",Consumer Goods,1456131.43,422,GL-6919,Net 60,2026-02-23,good
+PO-000782,V-0020,"Reid, Ferguson and Sanchez",Consumer Goods,2101031.03,275,GL-5708,Net 45,2026-05-05,good
+PO-000799,V-0189,Garcia LLC,Consumer Goods,1250871.2,62,GL-9605,Net 30,2026-03-27,late
+PO-000988,V-0142,Riggs PLC,Consumer Goods,1017987.62,248,GL-7676,2/10 Net 30,2026-05-31,good
+PO-000672,,Lewis-Murphy,Consumer Goods,2245982.71,118,GL-2804,2/10 Net 30,2026-02-22,good
+PO-000744,,Reid-Poole,Consumer Goods,1078403.06,101,GL-1537,Net 30,2026-05-19,good
+PO-000418,V-0036,Rodriguez-Graham,Consumer Goods,2228296.95,101,GL-2252,2/10 Net 30,2026-04-29,good
+PO-000879,V-0109,Hancock and Sons,Consumer Goods,55031.16,86,GL-3497,Net 45,2026-02-06,good
+PO-000155,V-0144,"Lee, Horton and Snyder",Industrial Equipment,2334284.09,408,GL-5480,2/10 Net 30,2026-03-01,good
+PO-000129,V-0023,Perez Inc,Consumer Goods,164837.39,204,GL-8842,Net 60,2026-03-02,good
+PO-000810,V-0106,Nolan and Sons,Consumer Goods,2316279.8,171,GL-7920,Net 30,2026-03-02,good
+PO-000346,V-0163,"Smith, Gilmore and Johnston",Industrial Equipment,1459144.76,484,GL-2166,2/10 Net 30,2026-03-14,late
+PO-000101,V-0050,"Harris, Collins and Carney",Industrial Equipment,919918.48,485,GL-8218,Net 45,2026-03-20,disputed
+PO-000171,V-0141,Hernandez Inc,Consumer Goods,2282035.82,388,GL-4578,Net 60,2026-03-25,good
+PO-000103,V-0027,Baker and Sons,Automotive Parts,1778646.74,265,GL-3042,Net 60,2026-02-13,good
+PO-000500,V-0154,Green-Wright,Automotive Parts,2286227.77,284,GL-2128,2/10 Net 30,2026-05-12,good
+PO-000020,V-0117,Ross LLC,Industrial Equipment,178413.81,120,GL-5334,2/10 Net 30,2026-02-03,good
+PO-000185,V-0110,Johnson-Doyle,Industrial Equipment,1389848.74,25,GL-7244,2/10 Net 30,2026-04-18,good
+PO-000037,V-0010,Abbott-Munoz,Consumer Goods,316052.55,495,GL-6439,Net 30,2026-03-18,good
+PO-000061,V-0060,Gomez-Jenkins,Automotive Parts,821734.6,76,GL-1046,Net 60,2026-02-21,good
+PO-000051,V-0070,Hancock Inc,Industrial Equipment,2076266.31,132,GL-8894,2/10 Net 30,2026-02-05,good
+PO-000117,V-0103,"Mckee, Gardner and Davenport",Automotive Parts,1858397.61,459,GL-6554,Net 45,2026-04-13,good
+PO-000475,V-0017,James Group,Automotive Parts,2342015.76,243,GL-1881,Net 60,2026-03-23,good
+PO-000142,V-0003,"Mcclain, Miller and Henderson",Industrial Equipment,2118007.33,221,GL-5333,Net 30,2026-05-15,good
+PO-000959,V-0012,Dudley Group,Industrial Equipment,1044229.1,294,GL-8411,Net 60,2026-04-23,late
+PO-000041,V-0181,Wells Inc,Consumer Goods,2181511.79,228,GL-5906,Net 45,2026-05-11,good
+PO-000557,V-0014,"Mcclure, Ward and Lee",Consumer Goods,1049244.44,159,GL-8311,Net 30,2026-02-28,good
+PO-000516,V-0118,Rasmussen LLC,Industrial Equipment,889461.56,71,GL-7014,Net 45,2026-04-29,disputed
+PO-000718,,"Patterson, Smith and Jones",Automotive Parts,370290.87,438,GL-7056,Net 45,2026-04-08,disputed
+PO-000796,V-0011,Blair PLC,Automotive Parts,2409485.33,249,GL-1326,Net 60,2026-02-21,good
+PO-000716,V-0051,"Brooks, Lam and Hayes",Consumer Goods,56860.34,276,,Net 45,2026-02-13,good
+PO-000696,V-0174,Lewis-Murphy,Consumer Goods,2063534.86,461,GL-8405,2/10 Net 30,2026-04-25,good
+PO-000528,V-0060,Gomez-Jenkins,Automotive Parts,499613.19,192,GL-2405,Net 60,2026-05-13,good
+PO-000523,V-0147,Robinson-Brock,Consumer Goods,1863414.94,281,GL-5301,Net 60,2026-04-11,good
+PO-000888,V-0109,Hancock and Sons,Consumer Goods,1441220.18,284,GL-5388,Net 45,2026-05-24,good
+PO-000039,V-0178,Walker-Jones,Consumer Goods,994009.57,42,GL-6383,Net 45,2026-02-12,late
+PO-000845,V-0153,Manning Group,Automotive Parts,1645186.75,169,GL-8423,2/10 Net 30,2026-05-27,good
+PO-000136,V-0176,King-Miller,Industrial Equipment,1015528.27,233,GL-1981,2/10 Net 30,2026-05-23,late
+PO-000120,V-0114,Gonzalez Group,Automotive Parts,879191.69,22,GL-6776,Net 60,2026-02-28,good
+PO-000768,V-0111,Patton-Jenkins,Automotive Parts,2200374.11,61,GL-8374,Net 30,2026-04-13,good
+PO-000558,V-0052,Walker LLC,Industrial Equipment,9330.48,392,GL-1200,2/10 Net 30,2026-04-30,good
+PO-000818,V-0166,Medina-Navarro,Industrial Equipment,1530201.9,118,GL-2457,2/10 Net 30,2026-02-05,late
+PO-000392,V-0100,Walsh LLC,Industrial Equipment,1041707.31,404,GL-6122,Net 30,2026-03-06,good
+PO-000990,V-0173,White-Green,Consumer Goods,254222.79,391,GL-3057,Net 30,2026-03-25,good
+PO-000325,V-0089,Suarez LLC,Automotive Parts,2194794.96,136,GL-8955,Net 30,2026-04-13,good
+PO-000510,V-0143,Gibson Ltd,Industrial Equipment,1038253.91,55,GL-6864,Net 45,2026-02-23,good
+PO-000377,V-0094,Newton and Sons,Automotive Parts,2063364.82,419,GL-8445,Net 30,2026-05-04,good
+PO-000419,V-0149,Bryant Group,Industrial Equipment,1013133.6,303,GL-1600,Net 45,2026-05-05,good
+PO-000763,V-0028,"Hoffman, Baker and Richards",Consumer Goods,305914.06,251,GL-4781,2/10 Net 30,2026-03-30,good
+PO-000669,V-0065,Baxter Inc,Automotive Parts,836069.43,413,GL-8424,2/10 Net 30,2026-02-08,good
+PO-000462,V-0098,Davis Group,Consumer Goods,1452730.04,167,GL-5254,Net 60,2026-04-16,late
+PO-000437,V-0179,"Williams, Johnson and Wright",Consumer Goods,1324776.39,118,GL-8899,2/10 Net 30,2026-02-01,good
+PO-000345,V-0079,Jones Inc,Consumer Goods,1051471.18,455,GL-7089,Net 60,2026-04-20,late
+PO-000525,V-0189,Garcia LLC,Consumer Goods,1310857.33,125,GL-5362,Net 30,2026-05-23,late
+PO-000477,V-0033,"Ferrell, Rice and Maddox",Automotive Parts,328627.14,430,GL-1468,2/10 Net 30,2026-05-11,good
+PO-000043,V-0157,"Mitchell, Nelson and Flores",Automotive Parts,2177163.58,318,GL-4945,Net 30,2026-03-06,good
+PO-000995,V-0124,"Joyce, Wilson and Lam",Automotive Parts,683620.7,129,GL-7228,2/10 Net 30,2026-02-14,good
+PO-000361,V-0011,Blair PLC,Automotive Parts,1370572.84,467,GL-8875,Net 60,2026-05-06,good
+PO-000713,V-0087,"Ferrell, Jones and Lewis",Automotive Parts,1723022.88,375,GL-1656,2/10 Net 30,2026-04-01,good
+PO-000303,V-0125,Scott Ltd,Consumer Goods,1623126.07,90,GL-6846,Net 60,2026-03-03,good
+PO-000535,V-0129,"Mccall, Hanson and Alvarado",Industrial Equipment,2416995.04,288,GL-1352,2/10 Net 30,2026-02-03,good
+PO-000138,V-0028,"Hoffman, Baker and Richards",Consumer Goods,798130.16,239,GL-5382,2/10 Net 30,2026-05-17,good
+PO-000087,V-0145,Hernandez Ltd,Automotive Parts,1899812.94,230,GL-6295,Net 60,2026-03-06,good
+PO-000261,V-0076,"Daniels, Adkins and Brown",Consumer Goods,1615601.35,402,GL-4921,Net 45,2026-02-07,good
+PO-000562,V-0023,Perez Inc,Consumer Goods,123053.89,214,GL-3643,Net 60,2026-05-10,good
+PO-000161,V-0060,Gomez-Jenkins,Automotive Parts,1338113.12,371,GL-1611,Net 60,2026-02-13,good
+PO-000774,V-0094,Newton and Sons,Automotive Parts,872517.53,380,GL-1440,Net 30,2026-03-19,good
+PO-000436,V-0034,Frazier Inc,Automotive Parts,2255010.9,277,GL-1019,Net 30,2026-02-16,good
+PO-000314,V-0170,Hooper PLC,Automotive Parts,1562914.84,246,GL-2589,2/10 Net 30,2026-05-07,good
+PO-000224,V-0064,"West, Henderson and Ramirez",Consumer Goods,1644175.31,182,GL-1725,2/10 Net 30,2026-05-11,good
+PO-000892,V-0113,"Rodriguez, Brennan and Garrison",Consumer Goods,580641.73,113,GL-6556,Net 45,2026-03-21,good
+PO-000241,V-0140,Chambers and Sons,Industrial Equipment,2058295.38,188,GL-1681,Net 30,2026-03-24,good
+PO-000463,V-0157,"Mitchell, Nelson and Flores",Automotive Parts,858069.6,95,GL-7945,Net 30,2026-03-30,good
+PO-000208,V-0089,Suarez LLC,Automotive Parts,134714.23,224,GL-2245,Net 30,2026-05-03,good
+PO-000620,V-0198,"Adams, Christian and Rivas",Automotive Parts,958225.9,339,GL-3740,Net 60,2026-04-06,late
+PO-000213,V-0023,Perez Inc,Consumer Goods,885108.76,48,GL-6315,Net 60,2026-03-17,good
+PO-000903,V-0088,Anderson-Bailey,Industrial Equipment,1962322.07,394,GL-5382,Net 45,2026-05-27,good
+PO-000411,V-0190,"Burke, Martinez and Riggs",Automotive Parts,2258914.17,177,GL-7760,Net 60,2026-05-05,good
+PO-000275,V-0018,"Flowers, Martin and Kelly",Automotive Parts,2192539.6,444,GL-6090,Net 30,2026-04-26,disputed
+PO-000486,V-0159,Mccarthy Inc,Industrial Equipment,1132191.7,359,,2/10 Net 30,2026-03-14,good
+PO-000507,V-0016,Galloway-Wyatt,Industrial Equipment,902634.66,381,GL-7814,Net 30,2026-02-01,good
+PO-000495,V-0040,"Romero, Gonzalez and Brooks",Consumer Goods,928810.96,46,GL-3583,Net 30,2026-05-01,late
+PO-000539,V-0147,Robinson-Brock,Consumer Goods,382296.51,497,GL-6395,Net 60,2026-04-23,good
+PO-000383,V-0045,"Arroyo, Miller and Tucker",Automotive Parts,1826371.41,66,GL-7347,Net 30,2026-05-19,good
+PO-000987,V-0142,Riggs PLC,Consumer Goods,1017987.62,248,GL-7676,2/10 Net 30,2026-05-29,good
+PO-000184,V-0037,Smith-Bowen,Consumer Goods,2464246.05,267,GL-7775,Net 60,2026-05-04,good
+PO-000743,V-0054,"Robinson, Jones and Welch",Consumer Goods,325980.52,41,,Net 60,2026-04-08,good
+PO-000532,V-0016,Galloway-Wyatt,Industrial Equipment,710391.85,405,GL-5444,Net 30,2026-03-04,good
+PO-000511,V-0047,Anderson Group,Consumer Goods,1375138.68,259,GL-3591,Net 60,2026-04-19,good
+PO-000819,V-0180,Howell and Sons,Consumer Goods,2129651.26,26,GL-8027,Net 60,2026-04-11,good
+PO-000719,V-0073,Henderson-Bernard,Industrial Equipment,862628.07,158,,Net 30,2026-04-05,late
+PO-000398,V-0138,"Jackson, Miller and Robertson",Industrial Equipment,1008840.96,179,GL-4495,Net 45,2026-05-04,good
+PO-000572,V-0118,Rasmussen LLC,Industrial Equipment,2230199.79,275,GL-6490,Net 45,2026-02-07,disputed
+PO-000172,V-0136,"Lawson, Morris and Ramos",Industrial Equipment,1759563.43,40,GL-2838,Net 45,2026-02-04,good
+PO-000594,V-0172,"Alvarado, Miller and Patterson",Consumer Goods,195197.06,477,GL-8972,Net 60,2026-03-02,good
+PO-000482,V-0126,Smith-Frost,Automotive Parts,2367420.3,245,GL-1149,Net 45,2026-04-24,good
+PO-000820,V-0023,Perez Inc,Consumer Goods,2395103.14,88,GL-2922,Net 60,2026-03-21,good
+PO-000897,V-0126,Smith-Frost,Automotive Parts,252708.86,213,GL-9089,Net 45,2026-02-01,good
+PO-000961,V-0185,Rodriguez-Johnson,Automotive Parts,2084291.82,68,GL-3269,Net 30,2026-02-24,late
+PO-000521,V-0145,Hernandez Ltd,Automotive Parts,374375.26,258,GL-4617,Net 60,2026-03-04,good
+PO-000900,V-0005,"Guzman, Hoffman and Baldwin",Automotive Parts,897287.49,134,GL-3598,Net 30,2026-04-21,good
+PO-000287,V-0104,"Tran, Jordan and Williams",Industrial Equipment,2136575.96,285,GL-5093,Net 45,2026-02-26,good
+PO-000055,V-0078,Yu Inc,Consumer Goods,1623274.0,60,GL-1742,Net 60,2026-05-15,good
+PO-000795,V-0070,Hancock Inc,Industrial Equipment,341508.36,133,GL-5551,2/10 Net 30,2026-02-20,good
+PO-000336,V-0105,Nolan-Flynn,Automotive Parts,1283446.44,443,GL-1145,Net 60,2026-02-22,good
+PO-000153,V-0185,Rodriguez-Johnson,Automotive Parts,1702024.35,412,GL-5331,Net 30,2026-03-05,late
+PO-000817,V-0047,Anderson Group,Consumer Goods,984038.7,194,GL-4677,Net 60,2026-02-01,good
+PO-000549,V-0116,Walker Ltd,Automotive Parts,1142522.61,450,GL-5025,Net 30,2026-05-27,good
+PO-000671,V-0019,"Adams, Zuniga and Wong",Consumer Goods,2237750.4,370,GL-6340,Net 60,2026-04-06,good
+PO-000048,V-0059,Lee-Davis,Automotive Parts,1517858.96,181,GL-4115,Net 45,2026-05-04,good
+PO-000251,V-0175,Ramirez-Bean,Industrial Equipment,1905753.93,24,GL-8529,Net 30,2026-05-20,late
+PO-000440,V-0177,Curry Inc,Consumer Goods,2010815.74,210,GL-2746,Net 60,2026-04-16,good
+PO-001000,V-0179,"Williams, Johnson and Wright",Consumer Goods,307880.92,72,GL-5578,2/10 Net 30,2026-03-05,good
+PO-000384,V-0156,Hill Inc,Consumer Goods,2289817.65,391,GL-5482,2/10 Net 30,2026-05-01,good
+PO-000388,V-0137,"Lewis, Kennedy and Santana",Industrial Equipment,715176.99,434,GL-1209,2/10 Net 30,2026-04-08,good
+PO-000827,V-0183,Jackson-Lawson,Industrial Equipment,959046.89,217,GL-5198,Net 30,2026-02-27,late
+PO-000862,V-0131,"Parker, Ortiz and Powell",Automotive Parts,1062571.35,49,GL-5151,Net 60,2026-04-07,disputed
+PO-000195,V-0063,Wright and Sons,Industrial Equipment,1248504.06,336,GL-6530,2/10 Net 30,2026-02-01,good
+PO-000134,V-0160,Russell-Daniels,Automotive Parts,1801721.6,310,GL-1674,Net 30,2026-04-19,good
+PO-000148,V-0077,"Woods, Calhoun and Schmidt",Automotive Parts,1187494.05,9,GL-6427,Net 45,2026-04-15,late
+PO-000122,V-0018,"Flowers, Martin and Kelly",Automotive Parts,590370.45,331,GL-6933,Net 30,2026-04-16,disputed
+PO-000993,V-0143,Gibson Ltd,Industrial Equipment,1129629.13,1,GL-8612,Net 45,2026-02-17,good
+PO-000445,V-0038,"Baker, Mason and White",Automotive Parts,1179435.82,308,GL-2444,Net 30,2026-04-07,disputed
+PO-000540,V-0149,Bryant Group,Industrial Equipment,1353613.89,410,GL-3262,Net 45,2026-05-07,good
+PO-000176,V-0012,Dudley Group,Industrial Equipment,1059531.61,359,,Net 60,2026-05-24,late
+PO-000382,V-0002,Doyle Ltd,Automotive Parts,1326145.69,25,GL-8091,Net 30,2026-03-23,good
+PO-000379,V-0096,Harris-Walters,Automotive Parts,1755389.09,24,GL-3689,Net 60,2026-02-07,good
+PO-000246,V-0071,Gray Group,Automotive Parts,2167685.45,65,GL-3174,Net 60,2026-03-04,good
+PO-000468,V-0162,Stein-Silva,Consumer Goods,241206.57,382,GL-5256,2/10 Net 30,2026-04-20,disputed
+PO-000313,V-0101,Figueroa PLC,Industrial Equipment,1429638.63,431,GL-3516,Net 60,2026-03-31,good
+PO-000985,V-0061,"Brown, Valdez and Lucas",Automotive Parts,1232702.11,386,GL-7308,Net 60,2026-03-29,good
+PO-000347,V-0106,Nolan and Sons,Consumer Goods,135627.9,438,GL-3250,Net 30,2026-05-13,good
+PO-000891,V-0113,"Rodriguez, Brennan and Garrison",Consumer Goods,580641.73,113,GL-6556,Net 45,2026-03-18,good
+PO-000389,V-0172,"Alvarado, Miller and Patterson",Consumer Goods,141983.63,137,GL-3636,Net 60,2026-02-25,good
+PO-000859,V-0064,"West, Henderson and Ramirez",Consumer Goods,1307968.6,152,GL-1781,2/10 Net 30,2026-03-21,good
+PO-000022,V-0146,Stafford Inc,Automotive Parts,2303020.73,225,GL-8679,Net 60,2026-05-17,good
+PO-000932,V-0131,"Parker, Ortiz and Powell",Automotive Parts,1379688.74,267,GL-3621,Net 60,2026-04-23,disputed
+PO-000619,V-0088,Anderson-Bailey,Industrial Equipment,2460187.11,496,,Net 45,2026-05-14,good
+PO-000181,V-0108,Dickson-Brady,Consumer Goods,1537500.56,480,GL-1256,Net 45,2026-02-08,good
+PO-000023,V-0127,"Mcdaniel, Bentley and Mclaughlin",Automotive Parts,1094678.28,307,GL-8078,2/10 Net 30,2026-05-27,good
+PO-000677,V-0120,"Rivera, Johnson and Wiley",Automotive Parts,1146718.02,88,GL-6629,2/10 Net 30,2026-02-24,disputed
+PO-000183,V-0199,Ramirez Group,Automotive Parts,141581.87,258,GL-4836,Net 60,2026-04-25,good
+PO-000989,V-0173,White-Green,Consumer Goods,254222.79,391,GL-3057,Net 30,2026-03-22,good
+PO-000568,V-0161,Brown-Wall,Consumer Goods,1991933.02,378,GL-4396,Net 60,2026-02-13,good
+PO-000738,V-0057,"Washington, Ryan and Cummings",Industrial Equipment,2079018.1,408,GL-9612,Net 45,2026-02-07,good
+PO-000955,V-0076,"Daniels, Adkins and Brown",Consumer Goods,1215070.89,406,GL-3328,Net 45,2026-05-14,good
+PO-000269,V-0033,"Ferrell, Rice and Maddox",Automotive Parts,1874566.07,448,GL-2934,2/10 Net 30,2026-04-28,good
+PO-000893,V-0186,Johnston-Odonnell,Consumer Goods,1778607.27,492,GL-6902,Net 45,2026-04-09,good
+PO-000179,V-0187,Sanders-Espinoza,Consumer Goods,2446821.58,428,GL-1372,2/10 Net 30,2026-06-01,good
+PO-000291,V-0098,Davis Group,Consumer Goods,1708190.69,89,,Net 60,2026-04-17,late
+PO-000203,V-0015,Williams and Sons,Industrial Equipment,1592051.81,360,GL-2354,Net 60,2026-05-11,good
+PO-000204,V-0025,"Walter, Edwards and Rios",Automotive Parts,2237030.63,471,GL-4764,Net 45,2026-05-27,good
+PO-000740,V-0005,"Guzman, Hoffman and Baldwin",Automotive Parts,1199055.82,160,,Net 30,2026-03-05,good
+PO-000941,V-0133,"Bentley, Byrd and Orr",Consumer Goods,1456131.43,422,GL-6919,Net 60,2026-02-22,good
+PO-000369,V-0200,Christensen PLC,Consumer Goods,896817.99,15,GL-3140,2/10 Net 30,2026-02-11,good
+PO-000600,V-0008,"Henderson, Ramirez and Lewis",Automotive Parts,588485.31,360,GL-7459,Net 45,2026-03-18,late
+PO-000822,V-0053,Chapman and Sons,Industrial Equipment,476765.14,442,GL-5361,Net 45,2026-02-17,disputed
+PO-000451,V-0148,"Holmes, Williams and Wright",Consumer Goods,12126.3,90,GL-9294,Net 45,2026-04-10,good
+PO-000298,V-0179,"Williams, Johnson and Wright",Consumer Goods,897278.44,303,GL-6761,2/10 Net 30,2026-05-29,good
+PO-000146,V-0086,Smith PLC,Automotive Parts,2010012.66,266,GL-3440,Net 30,2026-04-04,late
+PO-000118,V-0133,"Bentley, Byrd and Orr",Consumer Goods,667168.38,43,GL-7955,Net 60,2026-02-28,good
+PO-000569,V-0144,"Lee, Horton and Snyder",Industrial Equipment,2015205.77,109,GL-4296,2/10 Net 30,2026-05-31,good
+PO-000031,V-0030,"Snyder, Campos and Callahan",Automotive Parts,1153889.01,61,GL-3522,Net 45,2026-03-11,good
+PO-000701,,Gonzalez Group,Automotive Parts,1844404.26,11,GL-4097,Net 60,2026-04-25,good
+PO-000076,V-0088,Anderson-Bailey,Industrial Equipment,393944.48,160,GL-6314,Net 45,2026-03-01,good
+PO-000746,,Reid-Poole,Consumer Goods,241710.75,64,GL-4365,Net 30,2026-02-04,good
+PO-000904,V-0088,Anderson-Bailey,Industrial Equipment,1962322.07,394,GL-5382,Net 45,2026-05-31,good
+PO-000007,V-0180,Howell and Sons,Consumer Goods,2200328.31,285,GL-9464,Net 60,2026-05-31,good
+PO-000189,V-0173,White-Green,Consumer Goods,1512621.13,21,GL-2192,Net 30,2026-02-10,good
+PO-000410,V-0143,Gibson Ltd,Industrial Equipment,353863.98,22,GL-7456,Net 45,2026-06-01,good
+PO-000211,V-0183,Jackson-Lawson,Industrial Equipment,1959833.76,79,GL-7383,Net 30,2026-02-27,late
+PO-000385,V-0036,Rodriguez-Graham,Consumer Goods,1032157.31,359,GL-9393,2/10 Net 30,2026-02-08,good
+PO-000737,V-0106,Nolan and Sons,Consumer Goods,851112.57,467,GL-2678,Net 30,2026-05-12,good
+PO-000715,V-0084,"Edwards, Baker and Anderson",Industrial Equipment,138056.57,329,,Net 45,2026-05-08,good
+PO-000792,V-0163,"Smith, Gilmore and Johnston",Industrial Equipment,509293.32,212,GL-5702,2/10 Net 30,2026-04-28,late
+PO-000219,V-0163,"Smith, Gilmore and Johnston",Industrial Equipment,1227772.78,295,GL-4971,2/10 Net 30,2026-02-21,late
+PO-000865,V-0022,"Watts, Robinson and Nguyen",Automotive Parts,1040920.78,361,GL-6143,Net 45,2026-04-24,good
+PO-000838,V-0011,Blair PLC,Automotive Parts,1104078.46,364,GL-8949,Net 60,2026-03-22,good
+PO-000236,V-0109,Hancock and Sons,Consumer Goods,464791.37,326,GL-3838,Net 45,2026-03-25,good
+PO-000229,V-0088,Anderson-Bailey,Industrial Equipment,1620100.81,347,GL-3692,Net 45,2026-02-19,good
+PO-000004,V-0167,"Hurst, Freeman and Nelson",Consumer Goods,675570.95,414,GL-9817,2/10 Net 30,2026-02-04,good
+PO-000225,V-0085,"Evans, Stewart and Walton",Industrial Equipment,2414309.09,221,GL-1172,Net 30,2026-05-19,good
+PO-000837,V-0010,Abbott-Munoz,Consumer Goods,1175883.7,84,GL-8653,Net 30,2026-03-03,good
+PO-000044,V-0118,Rasmussen LLC,Industrial Equipment,638689.11,5,GL-8622,Net 45,2026-02-06,disputed
+PO-000466,V-0046,Spence PLC,Consumer Goods,1054090.91,69,GL-9470,Net 30,2026-02-07,good
+PO-000108,V-0187,Sanders-Espinoza,Consumer Goods,1522395.81,217,GL-5720,2/10 Net 30,2026-05-18,good
+PO-000167,V-0036,Rodriguez-Graham,Consumer Goods,1193896.52,480,GL-1111,2/10 Net 30,2026-05-01,good
+PO-000732,V-0178,Walker-Jones,Consumer Goods,339175.74,84,GL-5467,Net 45,2026-05-26,late
+PO-000429,V-0123,Chandler-Edwards,Industrial Equipment,1197813.4,303,GL-7732,Net 30,2026-05-12,good
+PO-000307,V-0018,"Flowers, Martin and Kelly",Automotive Parts,876527.66,403,GL-1020,Net 30,2026-05-19,disputed
+PO-000631,V-0182,"Gould, Marshall and Scott",Automotive Parts,2394509.45,45,GL-3128,Net 30,2026-02-12,late
+PO-000344,V-0067,Williams PLC,Automotive Parts,1813104.0,287,GL-3999,Net 30,2026-02-24,late
+PO-000881,V-0116,Walker Ltd,Automotive Parts,1463273.06,104,GL-7418,Net 30,2026-04-25,good
+PO-000779,V-0151,Salazar-Ball,Automotive Parts,56080.01,163,GL-7394,Net 60,2026-04-14,good
+PO-000340,V-0071,Gray Group,Automotive Parts,653236.7,365,GL-5895,Net 60,2026-02-07,good
+PO-000785,V-0089,Suarez LLC,Automotive Parts,1989231.55,334,GL-5945,Net 30,2026-02-16,good
+PO-000479,V-0117,Ross LLC,Industrial Equipment,1577803.28,326,GL-8126,2/10 Net 30,2026-02-09,good
+PO-000972,V-0005,"Guzman, Hoffman and Baldwin",Automotive Parts,301147.8,480,GL-3944,Net 30,2026-03-26,good
+PO-000194,V-0142,Riggs PLC,Consumer Goods,2336928.25,297,GL-7841,2/10 Net 30,2026-03-01,good
+PO-000986,V-0061,"Brown, Valdez and Lucas",Automotive Parts,1232702.11,386,GL-7308,Net 60,2026-03-29,good
+PO-000071,V-0171,Meadows PLC,Industrial Equipment,2352854.11,217,GL-1842,Net 45,2026-02-10,good
+PO-000207,V-0100,Walsh LLC,Industrial Equipment,1692748.9,277,GL-7288,Net 30,2026-04-20,good
+PO-000656,,"Washington, Ryan and Cummings",Industrial Equipment,158243.72,104,GL-6527,Net 45,2026-04-08,good
+PO-000206,V-0054,"Robinson, Jones and Welch",Consumer Goods,1467796.74,386,GL-7525,Net 60,2026-02-16,good
+PO-000895,V-0073,Henderson-Bernard,Industrial Equipment,1726898.52,45,GL-8911,Net 30,2026-03-08,late
+PO-000353,V-0012,Dudley Group,Industrial Equipment,745856.53,149,GL-9524,Net 60,2026-04-04,late
+PO-000433,V-0131,"Parker, Ortiz and Powell",Automotive Parts,661669.49,371,GL-6614,Net 60,2026-03-06,disputed
+PO-000790,V-0016,Galloway-Wyatt,Industrial Equipment,1305912.83,187,GL-3420,Net 30,2026-04-03,good
+PO-000758,V-0134,"Carroll, Sullivan and Bass",Consumer Goods,1646541.38,44,GL-3348,2/10 Net 30,2026-05-17,good
+PO-000520,V-0031,Burton Ltd,Industrial Equipment,2174531.39,117,GL-1187,Net 60,2026-02-26,good
+PO-000244,V-0053,Chapman and Sons,Industrial Equipment,2013698.51,292,GL-9720,Net 45,2026-04-18,disputed
+PO-000059,V-0032,Carlson-Cruz,Consumer Goods,2372552.47,422,,2/10 Net 30,2026-04-04,good
+PO-000149,V-0068,Novak and Sons,Industrial Equipment,2417693.21,401,GL-4728,Net 60,2026-02-22,good
+PO-000674,V-0150,"Schmidt, Hansen and Stewart",Consumer Goods,1211277.09,456,,Net 60,2026-04-07,good
+PO-000601,V-0140,Chambers and Sons,Industrial Equipment,528434.58,89,,Net 30,2026-04-02,good
+PO-000839,V-0185,Rodriguez-Johnson,Automotive Parts,2167264.81,64,GL-2533,Net 30,2026-04-18,late
+PO-000930,V-0086,Smith PLC,Automotive Parts,975288.85,369,GL-3064,Net 30,2026-03-01,late
+PO-000378,V-0094,Newton and Sons,Automotive Parts,1789925.79,59,GL-4633,Net 30,2026-05-20,good
+PO-000299,V-0127,"Mcdaniel, Bentley and Mclaughlin",Automotive Parts,1355540.44,90,,2/10 Net 30,2026-03-31,good
+PO-000352,V-0064,"West, Henderson and Ramirez",Consumer Goods,566051.15,450,GL-6113,2/10 Net 30,2026-04-18,good
+PO-000878,V-0161,Brown-Wall,Consumer Goods,2145544.3,276,GL-2410,Net 60,2026-05-11,good
+PO-000317,V-0068,Novak and Sons,Industrial Equipment,565992.58,138,GL-2009,Net 60,2026-03-21,good
+PO-000481,V-0003,"Mcclain, Miller and Henderson",Industrial Equipment,730.82,418,GL-3233,Net 30,2026-02-24,good
+PO-000151,V-0177,Curry Inc,Consumer Goods,510127.26,257,GL-8726,Net 60,2026-02-22,good
+PO-000150,V-0175,Ramirez-Bean,Industrial Equipment,605870.3,294,GL-2800,Net 30,2026-03-04,late
+PO-000555,V-0022,"Watts, Robinson and Nguyen",Automotive Parts,1309781.36,197,,Net 45,2026-02-28,good
+PO-000598,V-0174,Lewis-Murphy,Consumer Goods,761723.06,483,GL-8122,2/10 Net 30,2026-02-02,good
+PO-000808,V-0077,"Woods, Calhoun and Schmidt",Automotive Parts,526361.03,456,GL-8190,Net 45,2026-05-12,late
+PO-000916,V-0171,Meadows PLC,Industrial Equipment,614005.47,386,GL-9677,Net 45,2026-02-26,good
+PO-000668,V-0172,"Alvarado, Miller and Patterson",Consumer Goods,2306721.26,28,,Net 60,2026-03-11,good
+PO-000526,V-0106,Nolan and Sons,Consumer Goods,1059139.74,179,GL-6254,Net 30,2026-05-08,good
+PO-000447,V-0113,"Rodriguez, Brennan and Garrison",Consumer Goods,27270.64,436,GL-9489,Net 45,2026-03-09,good
+PO-000599,V-0076,"Daniels, Adkins and Brown",Consumer Goods,156495.19,462,GL-1870,Net 45,2026-03-23,good
+PO-000320,V-0133,"Bentley, Byrd and Orr",Consumer Goods,2001225.62,347,GL-3415,Net 60,2026-03-14,good
+PO-000770,V-0035,"Dyer, Potter and Mack",Automotive Parts,781492.96,200,GL-2792,2/10 Net 30,2026-03-31,good
+PO-000062,V-0045,"Arroyo, Miller and Tucker",Automotive Parts,275260.91,444,GL-3159,Net 30,2026-05-29,good
+PO-000046,V-0124,"Joyce, Wilson and Lam",Automotive Parts,267079.84,196,,2/10 Net 30,2026-03-20,good
+PO-000141,V-0062,Powell LLC,Automotive Parts,538253.48,181,GL-1828,Net 45,2026-05-26,good
+PO-000249,V-0188,Vargas Ltd,Consumer Goods,233307.57,498,GL-6869,Net 60,2026-04-04,good
+PO-000191,V-0179,"Williams, Johnson and Wright",Consumer Goods,1511201.63,105,GL-4921,2/10 Net 30,2026-04-12,good
+PO-000925,V-0157,"Mitchell, Nelson and Flores",Automotive Parts,2301166.25,359,GL-8310,Net 30,2026-04-11,good
+PO-000741,V-0153,Manning Group,Automotive Parts,1308041.21,497,GL-3821,2/10 Net 30,2026-04-19,good
+PO-000493,V-0077,"Woods, Calhoun and Schmidt",Automotive Parts,497209.72,455,,Net 45,2026-05-26,late
+PO-000432,V-0121,White-Estes,Industrial Equipment,2168322.35,88,GL-7730,Net 60,2026-05-04,good
+PO-000364,V-0045,"Arroyo, Miller and Tucker",Automotive Parts,2185414.05,437,GL-6901,Net 30,2026-04-25,good
+PO-000263,V-0175,Ramirez-Bean,Industrial Equipment,432339.4,242,GL-2195,Net 30,2026-02-23,late
+PO-000522,V-0148,"Holmes, Williams and Wright",Consumer Goods,1262071.0,114,GL-5747,Net 45,2026-04-07,good
+PO-000653,,White-Estes,Industrial Equipment,2267993.61,317,GL-4976,Net 60,2026-05-27,good
+PO-000130,V-0082,Sandoval-Cunningham,Industrial Equipment,1606025.3,231,GL-9476,Net 30,2026-04-03,disputed
+PO-000587,V-0183,Jackson-Lawson,Industrial Equipment,1896127.16,415,GL-2286,Net 30,2026-03-25,late
+PO-000884,V-0183,Jackson-Lawson,Industrial Equipment,1079753.99,213,GL-9121,Net 30,2026-02-17,late
+PO-000608,V-0124,"Joyce, Wilson and Lam",Automotive Parts,1762353.92,58,GL-8889,2/10 Net 30,2026-03-19,good
+PO-000070,V-0191,Reed Group,Automotive Parts,1847120.6,416,GL-1982,Net 30,2026-05-16,good
+PO-000610,V-0134,"Carroll, Sullivan and Bass",Consumer Goods,2224843.74,46,GL-8740,2/10 Net 30,2026-05-01,good
+PO-000013,V-0137,"Lewis, Kennedy and Santana",Industrial Equipment,316894.11,24,GL-5786,2/10 Net 30,2026-05-26,good
+PO-000106,V-0167,"Hurst, Freeman and Nelson",Consumer Goods,838558.24,75,GL-1627,2/10 Net 30,2026-05-15,good
+PO-000794,V-0080,"Hensley, Powell and David",Industrial Equipment,1160667.17,287,GL-7914,2/10 Net 30,2026-04-07,good
+PO-000926,V-0157,"Mitchell, Nelson and Flores",Automotive Parts,2301166.25,359,GL-8310,Net 30,2026-04-15,good
+PO-000602,,"Garcia, Humphrey and Baker",Consumer Goods,2099986.74,79,GL-3056,2/10 Net 30,2026-04-26,good
+PO-000981,V-0084,"Edwards, Baker and Anderson",Industrial Equipment,454053.87,366,GL-5882,Net 45,2026-05-25,good
+PO-000835,V-0043,Rodriguez LLC,Automotive Parts,789199.53,252,GL-3478,Net 30,2026-02-24,disputed
+PO-000745,,White-Estes,Industrial Equipment,297746.08,130,GL-2085,Net 60,2026-05-27,good
+PO-000027,V-0141,Hernandez Inc,Consumer Goods,92224.48,46,GL-5135,Net 60,2026-04-22,good
+PO-000692,,Medina-Navarro,Industrial Equipment,1397196.75,35,GL-4354,2/10 Net 30,2026-03-22,late
+PO-000953,V-0095,Campbell-Clark,Industrial Equipment,1429626.0,21,GL-3511,Net 30,2026-03-27,good
+PO-000348,V-0184,"Higgins, Strickland and Martin",Consumer Goods,451301.74,42,GL-6449,Net 45,2026-03-31,good
+PO-000104,V-0132,Spencer-Lee,Consumer Goods,368797.97,224,,Net 30,2026-05-21,good
+PO-000784,V-0087,"Ferrell, Jones and Lewis",Automotive Parts,683775.65,291,GL-9700,2/10 Net 30,2026-02-19,good
+PO-000636,,Spence PLC,Consumer Goods,1101716.79,252,GL-4287,Net 30,2026-02-03,good
+PO-000439,V-0182,"Gould, Marshall and Scott",Automotive Parts,1859242.38,4,GL-9561,Net 30,2026-03-20,late
+PO-000476,V-0159,Mccarthy Inc,Industrial Equipment,388608.27,336,GL-7387,2/10 Net 30,2026-02-02,good
+PO-000394,V-0046,Spence PLC,Consumer Goods,2458641.58,39,GL-3847,Net 30,2026-05-09,good
+PO-000852,V-0095,Campbell-Clark,Industrial Equipment,1281876.74,251,GL-7358,Net 30,2026-04-09,good
+PO-000011,V-0191,Reed Group,Automotive Parts,1339891.98,391,GL-4033,Net 30,2026-03-05,good
+PO-000639,V-0147,Robinson-Brock,Consumer Goods,1818999.11,398,GL-1307,Net 60,2026-04-05,good
+PO-000883,V-0183,Jackson-Lawson,Industrial Equipment,1079753.99,213,GL-9121,Net 30,2026-02-13,late
+PO-000982,V-0084,"Edwards, Baker and Anderson",Industrial Equipment,454053.87,366,GL-5882,Net 45,2026-05-27,good
+PO-000239,V-0145,Hernandez Ltd,Automotive Parts,77636.33,390,GL-5785,Net 60,2026-05-04,good
+PO-000421,V-0129,"Mccall, Hanson and Alvarado",Industrial Equipment,26973.91,123,GL-3717,2/10 Net 30,2026-02-13,good
+PO-000633,V-0120,"Rivera, Johnson and Wiley",Automotive Parts,1651364.38,39,,2/10 Net 30,2026-03-12,disputed
+PO-000099,V-0040,"Romero, Gonzalez and Brooks",Consumer Goods,406036.91,426,GL-3712,Net 30,2026-03-05,late
+PO-000412,V-0065,Baxter Inc,Automotive Parts,486218.38,93,GL-1891,2/10 Net 30,2026-03-08,good
+PO-000391,V-0173,White-Green,Consumer Goods,1848861.45,443,GL-7371,Net 30,2026-05-04,good
+PO-000302,V-0170,Hooper PLC,Automotive Parts,989291.11,52,GL-5944,2/10 Net 30,2026-04-19,good
+PO-000846,V-0146,Stafford Inc,Automotive Parts,323735.84,442,GL-5635,Net 60,2026-05-26,good
+PO-000573,V-0077,"Woods, Calhoun and Schmidt",Automotive Parts,1412574.13,348,GL-9779,Net 45,2026-04-22,late
+PO-000058,V-0061,"Brown, Valdez and Lucas",Automotive Parts,2138697.76,51,GL-7018,Net 60,2026-03-06,good
+PO-000694,V-0069,Russell Group,Automotive Parts,1259163.15,217,,Net 45,2026-04-27,late
+PO-000105,V-0129,"Mccall, Hanson and Alvarado",Industrial Equipment,935216.74,198,GL-7142,2/10 Net 30,2026-05-22,good
+PO-000068,V-0059,Lee-Davis,Automotive Parts,1034827.02,424,GL-7532,Net 45,2026-04-04,good
+PO-000801,V-0189,Garcia LLC,Consumer Goods,975181.7,384,GL-4865,Net 30,2026-02-26,late
+PO-000798,V-0024,Morales-Jones,Industrial Equipment,992539.18,430,GL-3302,Net 45,2026-03-01,disputed
+PO-000626,V-0026,Wilkerson-Day,Consumer Goods,638732.13,300,GL-8554,2/10 Net 30,2026-04-12,late
+PO-000309,V-0019,"Adams, Zuniga and Wong",Consumer Goods,1998086.82,18,GL-1328,Net 60,2026-04-25,good
+PO-000057,V-0168,Johnson-Rogers,Consumer Goods,248004.58,251,GL-7686,Net 45,2026-03-15,good
+PO-000453,V-0198,"Adams, Christian and Rivas",Automotive Parts,608561.5,174,GL-8517,Net 60,2026-02-22,late
+PO-000064,V-0093,"Garcia, Humphrey and Baker",Consumer Goods,1283338.28,56,GL-9254,2/10 Net 30,2026-04-05,good
+PO-000870,V-0173,White-Green,Consumer Goods,266273.48,274,GL-1095,Net 30,2026-05-30,good
+PO-000871,V-0123,Chandler-Edwards,Industrial Equipment,1150677.46,208,GL-8974,Net 30,2026-02-10,good
+PO-000711,V-0118,Rasmussen LLC,Industrial Equipment,2319564.32,80,GL-9948,Net 45,2026-06-01,disputed
+PO-000321,V-0050,"Harris, Collins and Carney",Industrial Equipment,315901.9,217,GL-8133,Net 45,2026-05-22,disputed
+PO-000387,V-0178,Walker-Jones,Consumer Goods,1592375.15,364,GL-6771,Net 45,2026-05-18,late
+PO-000035,V-0140,Chambers and Sons,Industrial Equipment,943336.53,478,,Net 30,2026-04-21,good
+PO-000063,V-0005,"Guzman, Hoffman and Baldwin",Automotive Parts,436028.38,27,GL-7897,Net 30,2026-05-16,good
+PO-000088,V-0078,Yu Inc,Consumer Goods,1990926.03,303,,Net 60,2026-05-25,good
+PO-000929,V-0086,Smith PLC,Automotive Parts,975288.85,369,GL-3064,Net 30,2026-02-27,late
+PO-000593,V-0099,Williams-Cook,Industrial Equipment,165616.81,107,GL-8063,Net 60,2026-02-17,good
+PO-000458,V-0021,Gray-Mayo,Industrial Equipment,1689692.41,340,GL-1108,Net 30,2026-03-30,good
+PO-000805,V-0095,Campbell-Clark,Industrial Equipment,2053502.73,11,GL-1570,Net 30,2026-03-11,good
+PO-000098,V-0076,"Daniels, Adkins and Brown",Consumer Goods,2111148.76,52,GL-9843,Net 45,2026-03-29,good
+PO-000450,V-0144,"Lee, Horton and Snyder",Industrial Equipment,2287564.93,179,GL-5530,2/10 Net 30,2026-04-18,good
+PO-000635,V-0071,Gray Group,Automotive Parts,1942876.32,196,,Net 60,2026-04-13,good
+PO-000615,V-0160,Russell-Daniels,Automotive Parts,68731.57,249,,Net 30,2026-05-22,good
+PO-000075,V-0103,"Mckee, Gardner and Davenport",Automotive Parts,174428.76,380,GL-1502,Net 45,2026-03-12,good
+PO-000243,V-0031,Burton Ltd,Industrial Equipment,1939191.31,122,GL-6744,Net 60,2026-05-06,good
+PO-000533,V-0170,Hooper PLC,Automotive Parts,678640.29,437,GL-6901,2/10 Net 30,2026-02-05,good
+PO-000342,V-0108,Dickson-Brady,Consumer Goods,1011794.94,378,GL-4111,Net 45,2026-05-28,good
+PO-000056,V-0138,"Jackson, Miller and Robertson",Industrial Equipment,339592.29,233,GL-9850,Net 45,2026-04-15,good
+PO-000349,V-0054,"Robinson, Jones and Welch",Consumer Goods,1903102.61,87,GL-3595,Net 60,2026-03-20,good
+PO-000245,V-0075,Novak PLC,Automotive Parts,723688.44,137,GL-9428,Net 45,2026-02-12,disputed
+PO-000485,V-0137,"Lewis, Kennedy and Santana",Industrial Equipment,2022117.22,212,GL-2121,2/10 Net 30,2026-05-08,good
+PO-000111,V-0093,"Garcia, Humphrey and Baker",Consumer Goods,169664.47,270,,2/10 Net 30,2026-03-24,good
+PO-000254,V-0024,Morales-Jones,Industrial Equipment,1759393.25,1,,Net 45,2026-05-05,disputed
+PO-000257,V-0174,Lewis-Murphy,Consumer Goods,357561.24,272,GL-1138,2/10 Net 30,2026-03-21,good
+PO-000821,V-0112,"Shields, Cochran and Adams",Industrial Equipment,1933511.62,476,GL-9096,Net 45,2026-04-04,disputed
+PO-000806,V-0062,Powell LLC,Automotive Parts,632830.75,197,GL-6945,Net 45,2026-04-23,good
+PO-000607,V-0069,Russell Group,Automotive Parts,1027389.12,280,GL-7012,Net 45,2026-03-20,late
+PO-000025,V-0167,"Hurst, Freeman and Nelson",Consumer Goods,1105852.4,143,GL-8141,2/10 Net 30,2026-05-09,good
+PO-000844,V-0040,"Romero, Gonzalez and Brooks",Consumer Goods,72671.82,236,GL-8861,Net 30,2026-02-15,late
+PO-000492,V-0080,"Hensley, Powell and David",Industrial Equipment,2340570.01,82,GL-1691,2/10 Net 30,2026-03-13,good
+PO-000029,V-0195,"Hernandez, Thompson and Boyd",Automotive Parts,129503.63,137,GL-3146,2/10 Net 30,2026-03-23,good
+PO-000100,V-0157,"Mitchell, Nelson and Flores",Automotive Parts,712677.37,384,GL-8355,Net 30,2026-02-21,good
+PO-000911,V-0094,Newton and Sons,Automotive Parts,836851.51,71,GL-4307,Net 30,2026-05-17,good
+PO-000642,,"Tran, Jordan and Williams",Industrial Equipment,2110200.86,400,GL-2148,Net 45,2026-02-18,good
+PO-000065,V-0008,"Henderson, Ramirez and Lewis",Automotive Parts,152533.11,246,GL-7580,Net 45,2026-02-13,late
+PO-000319,V-0176,King-Miller,Industrial Equipment,2167301.59,244,GL-4860,2/10 Net 30,2026-03-20,late
+PO-000338,V-0120,"Rivera, Johnson and Wiley",Automotive Parts,755711.66,267,GL-7506,2/10 Net 30,2026-02-16,disputed
+PO-000169,V-0041,Ryan PLC,Automotive Parts,1013838.82,258,GL-6095,2/10 Net 30,2026-02-03,good
+PO-000202,V-0179,"Williams, Johnson and Wright",Consumer Goods,565030.2,351,GL-2320,2/10 Net 30,2026-02-16,good
+PO-000256,V-0027,Baker and Sons,Automotive Parts,258452.23,189,GL-5902,Net 60,2026-02-09,good
+PO-000077,V-0194,Reid-Poole,Consumer Goods,1544786.54,346,GL-5458,Net 30,2026-05-22,good
+PO-000434,V-0099,Williams-Cook,Industrial Equipment,330966.89,9,GL-9564,Net 60,2026-05-07,good
+PO-000707,,Walker-Jones,Consumer Goods,2261825.51,407,GL-3641,Net 45,2026-05-13,late
+PO-000232,V-0181,Wells Inc,Consumer Goods,2021920.11,33,GL-2667,Net 45,2026-03-20,good
+PO-000756,V-0105,Nolan-Flynn,Automotive Parts,726828.02,438,GL-4093,Net 60,2026-04-08,good
+PO-000026,V-0172,"Alvarado, Miller and Patterson",Consumer Goods,261947.41,83,GL-7744,Net 60,2026-04-20,good
+PO-000586,V-0181,Wells Inc,Consumer Goods,1490505.35,304,GL-8304,Net 45,2026-03-13,good
+PO-000957,V-0056,Jones-Young,Automotive Parts,458101.29,379,GL-1034,Net 30,2026-03-31,good
+PO-000343,V-0172,"Alvarado, Miller and Patterson",Consumer Goods,896563.58,154,GL-3785,Net 60,2026-02-13,good
+PO-000200,V-0179,"Williams, Johnson and Wright",Consumer Goods,1685245.36,413,GL-3937,2/10 Net 30,2026-02-01,good
+PO-000402,V-0076,"Daniels, Adkins and Brown",Consumer Goods,2245754.88,99,GL-9419,Net 45,2026-04-21,good
+PO-000006,V-0127,"Mcdaniel, Bentley and Mclaughlin",Automotive Parts,2127456.61,94,GL-4475,2/10 Net 30,2026-03-31,good
+PO-000324,V-0150,"Schmidt, Hansen and Stewart",Consumer Goods,1896064.28,482,GL-2730,Net 60,2026-05-20,good
+PO-000460,V-0193,Short-Garcia,Industrial Equipment,1441874.63,28,GL-7933,Net 45,2026-03-26,late
+PO-000857,V-0075,Novak PLC,Automotive Parts,1170813.82,41,GL-8825,Net 45,2026-02-05,disputed
+PO-000431,V-0104,"Tran, Jordan and Williams",Industrial Equipment,1498594.13,289,GL-1305,Net 45,2026-03-12,good
+PO-000890,V-0166,Medina-Navarro,Industrial Equipment,867236.9,358,GL-1340,2/10 Net 30,2026-04-08,late
+PO-000049,V-0161,Brown-Wall,Consumer Goods,1616028.35,159,GL-8222,Net 60,2026-02-21,good
+PO-000230,V-0110,Johnson-Doyle,Industrial Equipment,2396177.32,119,GL-7636,2/10 Net 30,2026-02-19,good
+PO-000739,,Howell and Sons,Consumer Goods,1890888.71,59,GL-8544,Net 60,2026-04-09,good
+PO-000045,V-0089,Suarez LLC,Automotive Parts,2469135.41,154,GL-7951,Net 30,2026-03-12,good
+PO-000778,V-0109,Hancock and Sons,Consumer Goods,1420339.49,462,GL-5368,Net 45,2026-04-09,good
+PO-000530,V-0121,White-Estes,Industrial Equipment,57358.91,108,GL-9814,Net 60,2026-02-27,good
+PO-000371,V-0172,"Alvarado, Miller and Patterson",Consumer Goods,2182922.34,266,GL-2560,Net 60,2026-03-27,good
+PO-000508,V-0069,Russell Group,Automotive Parts,1322787.57,376,GL-5979,Net 45,2026-05-23,late
+PO-000478,V-0120,"Rivera, Johnson and Wiley",Automotive Parts,2437466.37,277,GL-5463,2/10 Net 30,2026-02-02,disputed
+PO-000531,V-0037,Smith-Bowen,Consumer Goods,1737830.32,343,GL-7170,Net 60,2026-05-30,good
+PO-000918,V-0110,Johnson-Doyle,Industrial Equipment,1033816.84,210,GL-8516,2/10 Net 30,2026-02-09,good
+PO-000125,V-0055,Jones Inc,Industrial Equipment,2490914.6,147,GL-9047,2/10 Net 30,2026-03-05,good
+PO-000863,V-0129,"Mccall, Hanson and Alvarado",Industrial Equipment,41163.6,380,GL-8583,2/10 Net 30,2026-03-09,good
+PO-000417,V-0119,May-Ross,Automotive Parts,1113672.25,397,GL-8978,Net 45,2026-04-23,late
+PO-000443,V-0102,"Patterson, Smith and Jones",Automotive Parts,1839588.19,438,GL-2951,Net 45,2026-02-11,disputed
+PO-000331,V-0104,"Tran, Jordan and Williams",Industrial Equipment,339556.73,436,GL-1474,Net 45,2026-03-26,good
+PO-000054,V-0060,Gomez-Jenkins,Automotive Parts,1178956.43,318,GL-6374,Net 60,2026-02-08,good
+PO-000666,,Cortez LLC,Industrial Equipment,548580.7,395,GL-4409,Net 60,2026-03-13,good
+PO-000690,V-0176,King-Miller,Industrial Equipment,202857.12,451,,2/10 Net 30,2026-04-20,late
+PO-000657,,King-Miller,Industrial Equipment,1440129.54,71,GL-4493,2/10 Net 30,2026-04-21,late
+PO-000438,V-0123,Chandler-Edwards,Industrial Equipment,1914764.3,466,GL-2373,Net 30,2026-02-12,good
+PO-000974,V-0181,Wells Inc,Consumer Goods,2097374.14,297,GL-2386,Net 45,2026-04-08,good
+PO-000465,V-0061,"Brown, Valdez and Lucas",Automotive Parts,1388572.45,439,GL-4212,Net 60,2026-04-14,good
+PO-000574,V-0091,"Turner, Riggs and Roman",Automotive Parts,165999.5,77,GL-1510,Net 60,2026-04-27,disputed
+PO-000698,V-0021,Gray-Mayo,Industrial Equipment,977010.92,92,,Net 30,2026-04-26,good
+PO-000259,V-0151,Salazar-Ball,Automotive Parts,1825157.87,180,GL-6152,Net 60,2026-04-08,good
+PO-000630,,Blake and Sons,Industrial Equipment,1548683.36,30,GL-4552,Net 60,2026-02-01,good
+PO-000546,V-0196,"Nelson, Morton and Medina",Consumer Goods,2422053.29,474,GL-7767,Net 45,2026-04-28,good
+PO-000861,V-0131,"Parker, Ortiz and Powell",Automotive Parts,1062571.35,49,GL-5151,Net 60,2026-04-03,disputed
+PO-000710,,George Group,Industrial Equipment,1334340.57,63,GL-1408,Net 60,2026-02-04,good
+PO-000024,V-0173,White-Green,Consumer Goods,2089978.56,295,GL-1339,Net 30,2026-03-18,good
+PO-000695,V-0116,Walker Ltd,Automotive Parts,1215824.15,270,GL-3010,Net 30,2026-02-15,good
+PO-000915,V-0171,Meadows PLC,Industrial Equipment,614005.47,386,GL-9677,Net 45,2026-02-25,good
+PO-000281,V-0022,"Watts, Robinson and Nguyen",Automotive Parts,1452136.18,259,GL-7461,Net 45,2026-05-15,good
+PO-000802,V-0028,"Hoffman, Baker and Richards",Consumer Goods,438298.06,497,GL-8200,2/10 Net 30,2026-04-27,good
+PO-000747,V-0172,"Alvarado, Miller and Patterson",Consumer Goods,879158.4,47,,Net 60,2026-05-14,good
+PO-000536,V-0101,Figueroa PLC,Industrial Equipment,1861104.6,10,GL-6765,Net 60,2026-04-18,good
+PO-000234,V-0118,Rasmussen LLC,Industrial Equipment,1543598.02,417,GL-5873,Net 45,2026-03-07,disputed
+PO-000584,V-0073,Henderson-Bernard,Industrial Equipment,1435420.32,88,,Net 30,2026-05-23,late
+PO-000266,V-0040,"Romero, Gonzalez and Brooks",Consumer Goods,1341207.24,201,,Net 30,2026-03-18,late
+PO-000131,V-0034,Frazier Inc,Automotive Parts,1081829.41,467,GL-1907,Net 30,2026-02-10,good
+PO-000875,V-0029,"Ross, Robinson and Bright",Industrial Equipment,2040012.57,357,GL-1439,2/10 Net 30,2026-05-08,late
+PO-000764,V-0189,Garcia LLC,Consumer Goods,132604.63,35,GL-1438,Net 30,2026-03-30,late
+PO-000132,V-0182,"Gould, Marshall and Scott",Automotive Parts,564062.98,486,GL-9501,Net 30,2026-02-01,late
+PO-000603,,Medina-Navarro,Industrial Equipment,39761.64,370,GL-8974,2/10 Net 30,2026-02-08,late
+PO-000067,V-0153,Manning Group,Automotive Parts,1326626.82,233,GL-8048,2/10 Net 30,2026-03-29,good
+PO-000180,V-0059,Lee-Davis,Automotive Parts,619156.34,178,GL-5516,Net 45,2026-05-13,good
+PO-000579,V-0010,Abbott-Munoz,Consumer Goods,1148691.34,366,GL-9558,Net 30,2026-02-11,good
+PO-000618,,Williams PLC,Automotive Parts,1956428.0,121,GL-3962,Net 30,2026-03-31,late
+PO-000998,V-0131,"Parker, Ortiz and Powell",Automotive Parts,703637.57,83,GL-9750,Net 60,2026-03-01,disputed
+PO-000944,V-0106,Nolan and Sons,Consumer Goods,205326.94,32,GL-3130,Net 30,2026-04-11,good
+PO-000580,V-0153,Manning Group,Automotive Parts,2179751.8,171,,2/10 Net 30,2026-04-03,good
+PO-000757,V-0174,Lewis-Murphy,Consumer Goods,918919.77,7,GL-9055,2/10 Net 30,2026-03-07,good
+PO-000676,,Smith PLC,Automotive Parts,318465.81,355,GL-1977,Net 30,2026-03-21,late
+PO-000199,V-0005,"Guzman, Hoffman and Baldwin",Automotive Parts,17027.59,283,,Net 30,2026-04-10,good
+PO-000566,V-0082,Sandoval-Cunningham,Industrial Equipment,649520.27,295,GL-6797,Net 30,2026-03-14,disputed
+PO-000175,V-0173,White-Green,Consumer Goods,2017384.92,371,GL-7487,Net 30,2026-05-30,good
+PO-000905,V-0027,Baker and Sons,Automotive Parts,1766159.09,475,GL-8489,Net 60,2026-04-06,good
+PO-000513,V-0083,Donovan-Harris,Automotive Parts,1521229.22,289,GL-4504,Net 30,2026-03-24,good
+PO-000583,V-0144,"Lee, Horton and Snyder",Industrial Equipment,1285394.62,106,GL-6739,2/10 Net 30,2026-03-24,good
+PO-000285,V-0176,King-Miller,Industrial Equipment,760885.35,361,GL-1660,2/10 Net 30,2026-03-04,late
+PO-000114,V-0045,"Arroyo, Miller and Tucker",Automotive Parts,2076043.95,351,,Net 30,2026-04-03,good
+PO-000406,V-0111,Patton-Jenkins,Automotive Parts,791352.41,200,GL-2938,Net 30,2026-03-07,good
+PO-000654,,Stein-Silva,Consumer Goods,125370.01,158,GL-2594,2/10 Net 30,2026-02-16,disputed
+PO-000841,V-0055,Jones Inc,Industrial Equipment,1459076.7,498,GL-9618,2/10 Net 30,2026-06-01,good
+PO-000201,V-0135,Mitchell-Jordan,Industrial Equipment,631419.28,182,GL-7502,Net 30,2026-04-28,good
+PO-000008,V-0195,"Hernandez, Thompson and Boyd",Automotive Parts,601189.68,244,GL-9041,2/10 Net 30,2026-03-11,good
+PO-000215,V-0069,Russell Group,Automotive Parts,1233063.29,33,GL-8121,Net 45,2026-05-11,late
+PO-000621,V-0089,Suarez LLC,Automotive Parts,136287.3,136,,Net 30,2026-02-25,good
+PO-000724,V-0119,May-Ross,Automotive Parts,1775762.39,387,,Net 45,2026-02-04,late
+PO-000962,V-0185,Rodriguez-Johnson,Automotive Parts,2084291.82,68,GL-3269,Net 30,2026-02-27,late
+PO-000505,V-0050,"Harris, Collins and Carney",Industrial Equipment,247334.59,293,,Net 45,2026-03-11,disputed
+PO-000919,V-0038,"Baker, Mason and White",Automotive Parts,1925494.58,368,GL-9476,Net 30,2026-02-18,disputed
+PO-000038,V-0117,Ross LLC,Industrial Equipment,38861.32,74,GL-3529,2/10 Net 30,2026-04-10,good
+PO-000372,V-0174,Lewis-Murphy,Consumer Goods,1603690.43,77,GL-1894,2/10 Net 30,2026-02-14,good
+PO-000506,V-0057,"Washington, Ryan and Cummings",Industrial Equipment,1515081.08,37,GL-4419,Net 45,2026-05-31,good
+PO-000240,V-0118,Rasmussen LLC,Industrial Equipment,1414343.33,396,GL-9115,Net 45,2026-02-23,disputed
+PO-000923,V-0108,Dickson-Brady,Consumer Goods,1005306.04,349,GL-5986,Net 45,2026-03-04,good
+PO-000736,V-0091,"Turner, Riggs and Roman",Automotive Parts,2058375.38,7,,Net 60,2026-05-15,disputed
+PO-000828,V-0016,Galloway-Wyatt,Industrial Equipment,130755.47,477,GL-8715,Net 30,2026-05-02,good
+PO-000311,V-0111,Patton-Jenkins,Automotive Parts,2356134.42,85,GL-8113,Net 30,2026-03-16,good
+PO-000641,V-0085,"Evans, Stewart and Walton",Industrial Equipment,2261591.55,295,,Net 30,2026-06-01,good
+PO-000629,,King-Miller,Industrial Equipment,1115132.54,113,GL-5641,2/10 Net 30,2026-03-01,late
+PO-000947,V-0163,"Smith, Gilmore and Johnston",Industrial Equipment,1058843.78,226,GL-9020,2/10 Net 30,2026-03-05,late
+PO-000093,V-0087,"Ferrell, Jones and Lewis",Automotive Parts,1697404.85,27,GL-6482,2/10 Net 30,2026-02-20,good
+PO-000197,V-0020,"Reid, Ferguson and Sanchez",Consumer Goods,2362997.68,343,GL-1104,Net 45,2026-05-26,good
+PO-000937,V-0087,"Ferrell, Jones and Lewis",Automotive Parts,2457384.93,413,GL-9737,2/10 Net 30,2026-02-26,good
+PO-000727,V-0164,Smith-Bell,Industrial Equipment,2085690.56,242,,2/10 Net 30,2026-05-17,late
+PO-000697,,Walker-Jones,Consumer Goods,2022085.29,482,GL-2075,Net 45,2026-02-08,late
+PO-000288,V-0016,Galloway-Wyatt,Industrial Equipment,2076015.64,114,GL-4246,Net 30,2026-05-16,good
+PO-000777,V-0030,"Snyder, Campos and Callahan",Automotive Parts,844316.85,11,GL-6343,Net 45,2026-03-25,good
+PO-000021,V-0140,Chambers and Sons,Industrial Equipment,562411.22,77,GL-5352,Net 30,2026-02-05,good
+PO-000761,V-0186,Johnston-Odonnell,Consumer Goods,1248025.73,392,GL-5472,Net 45,2026-03-02,good
+PO-000227,V-0107,"Wright, Garcia and Deleon",Consumer Goods,2301408.59,44,GL-3321,Net 60,2026-05-18,good
+PO-000997,V-0131,"Parker, Ortiz and Powell",Automotive Parts,703637.57,83,GL-9750,Net 60,2026-02-27,disputed
+PO-000975,V-0012,Dudley Group,Industrial Equipment,1228936.86,479,GL-6569,Net 60,2026-05-30,late
+PO-000198,V-0039,Harrell LLC,Industrial Equipment,23349.08,259,GL-7114,Net 60,2026-04-04,good
+PO-000380,V-0157,"Mitchell, Nelson and Flores",Automotive Parts,490205.71,62,GL-7437,Net 30,2026-02-02,good
+PO-000474,V-0006,"Gardner, Robinson and Lawrence",Industrial Equipment,313037.26,121,GL-5122,2/10 Net 30,2026-03-09,good
+PO-000128,V-0061,"Brown, Valdez and Lucas",Automotive Parts,1976037.47,14,GL-7044,Net 60,2026-04-16,good
+PO-000009,V-0178,Walker-Jones,Consumer Goods,608641.26,340,GL-7046,Net 45,2026-03-19,late
+PO-000963,V-0115,Torres-Pope,Automotive Parts,372881.99,373,GL-2463,Net 60,2026-04-21,good
+PO-000832,V-0023,Perez Inc,Consumer Goods,793634.81,272,GL-3323,Net 60,2026-04-07,good
+PO-000787,V-0132,Spencer-Lee,Consumer Goods,1133344.9,391,GL-3958,Net 30,2026-03-23,good
+PO-000860,V-0064,"West, Henderson and Ramirez",Consumer Goods,1307968.6,152,GL-1781,2/10 Net 30,2026-03-21,good
+PO-000182,V-0173,White-Green,Consumer Goods,1758364.02,25,GL-1724,Net 30,2026-05-01,good
+PO-000397,V-0182,"Gould, Marshall and Scott",Automotive Parts,794988.58,113,GL-9529,Net 30,2026-05-09,late
+PO-000367,V-0177,Curry Inc,Consumer Goods,2126753.61,410,GL-3732,Net 60,2026-04-09,good
+PO-000616,,Baxter Inc,Automotive Parts,331780.64,144,GL-5209,2/10 Net 30,2026-04-27,good
+PO-000848,V-0046,Spence PLC,Consumer Goods,600580.29,395,GL-7535,Net 30,2026-02-11,good
+PO-000386,V-0142,Riggs PLC,Consumer Goods,1581641.92,103,GL-5760,2/10 Net 30,2026-05-06,good
+PO-000833,V-0012,Dudley Group,Industrial Equipment,2446302.25,256,GL-5603,Net 60,2026-02-10,late
+PO-000362,V-0029,"Ross, Robinson and Bright",Industrial Equipment,2088162.8,343,GL-3443,2/10 Net 30,2026-03-30,late
+PO-000127,V-0041,Ryan PLC,Automotive Parts,1779666.86,475,GL-3852,2/10 Net 30,2026-03-04,good
+PO-000968,V-0043,Rodriguez LLC,Automotive Parts,1768167.96,293,GL-6060,Net 30,2026-03-13,disputed
+PO-000456,V-0056,Jones-Young,Automotive Parts,2235843.47,138,GL-4115,Net 30,2026-05-09,good
+PO-000688,V-0001,"Rodriguez, Figueroa and Sanchez",Automotive Parts,2151026.44,37,,Net 60,2026-04-13,good
+PO-000836,V-0163,"Smith, Gilmore and Johnston",Industrial Equipment,1995651.35,28,GL-3435,2/10 Net 30,2026-05-08,late
+PO-000853,V-0024,Morales-Jones,Industrial Equipment,1891348.36,416,GL-4053,Net 45,2026-04-15,disputed
+PO-000914,V-0122,Johnson-Carlson,Consumer Goods,853629.51,259,GL-2396,Net 45,2026-05-14,late
+PO-000032,V-0124,"Joyce, Wilson and Lam",Automotive Parts,2450621.46,125,GL-3369,2/10 Net 30,2026-04-04,good
+PO-000958,V-0056,Jones-Young,Automotive Parts,458101.29,379,GL-1034,Net 30,2026-04-02,good
+PO-000080,V-0196,"Nelson, Morton and Medina",Consumer Goods,639171.0,168,GL-1126,Net 45,2026-05-17,good
+PO-000667,,"Ross, Robinson and Bright",Industrial Equipment,1991634.12,351,GL-8772,2/10 Net 30,2026-02-13,late
+PO-000665,V-0143,Gibson Ltd,Industrial Equipment,589479.7,61,GL-2567,Net 45,2026-03-26,good
+PO-000898,V-0126,Smith-Frost,Automotive Parts,252708.86,213,GL-9089,Net 45,2026-02-02,good
+PO-000807,V-0114,Gonzalez Group,Automotive Parts,971483.3,466,GL-5186,Net 60,2026-04-12,good
+PO-000084,V-0151,Salazar-Ball,Automotive Parts,1001424.32,41,GL-6083,Net 60,2026-04-12,good
+PO-000552,V-0129,"Mccall, Hanson and Alvarado",Industrial Equipment,283372.38,399,GL-9952,2/10 Net 30,2026-03-19,good
+PO-000403,V-0054,"Robinson, Jones and Welch",Consumer Goods,1676002.65,397,GL-7950,Net 60,2026-05-05,good
+PO-000781,V-0087,"Ferrell, Jones and Lewis",Automotive Parts,416984.73,154,GL-8143,2/10 Net 30,2026-04-16,good
+PO-000501,V-0139,"Harvey, Davis and Crane",Automotive Parts,918098.21,1,GL-9289,Net 60,2026-02-22,good
+PO-000721,V-0109,Hancock and Sons,Consumer Goods,1821649.49,213,,Net 45,2026-05-15,good
+PO-000714,,"Snyder, Campos and Callahan",Automotive Parts,770551.46,206,GL-4610,Net 45,2026-03-14,good
+PO-000917,V-0110,Johnson-Doyle,Industrial Equipment,1033816.84,210,GL-8516,2/10 Net 30,2026-02-07,good
+PO-000570,V-0141,Hernandez Inc,Consumer Goods,810147.64,4,GL-6460,Net 60,2026-05-18,good
+PO-000424,V-0117,Ross LLC,Industrial Equipment,2203939.18,21,GL-6309,2/10 Net 30,2026-03-10,good
+PO-000178,V-0175,Ramirez-Bean,Industrial Equipment,2410378.87,448,GL-3178,Net 30,2026-03-24,late
+PO-000689,,Johnson-Doyle,Industrial Equipment,1882343.58,358,GL-9887,2/10 Net 30,2026-03-15,good
+PO-000010,V-0141,Hernandez Inc,Consumer Goods,827312.85,360,GL-5438,Net 60,2026-04-04,good
+PO-000924,V-0108,Dickson-Brady,Consumer Goods,1005306.04,349,GL-5986,Net 45,2026-03-04,good
+PO-000005,V-0063,Wright and Sons,Industrial Equipment,2076912.18,45,GL-8385,2/10 Net 30,2026-04-27,good
+PO-000488,V-0039,Harrell LLC,Industrial Equipment,37304.75,112,GL-7885,Net 60,2026-04-19,good
+PO-000624,V-0115,Torres-Pope,Automotive Parts,955319.23,162,GL-1672,Net 60,2026-03-26,good
+PO-000003,V-0108,Dickson-Brady,Consumer Goods,2055916.13,55,GL-6934,Net 45,2026-04-07,good
+PO-000945,V-0174,Lewis-Murphy,Consumer Goods,1315875.88,302,GL-9502,2/10 Net 30,2026-03-22,good
+PO-000662,V-0178,Walker-Jones,Consumer Goods,317667.6,74,,Net 45,2026-03-12,late
+PO-000137,V-0156,Hill Inc,Consumer Goods,359599.89,442,GL-6231,2/10 Net 30,2026-03-02,good
+PO-000709,V-0182,"Gould, Marshall and Scott",Automotive Parts,87205.38,163,GL-3423,Net 30,2026-04-18,late
+PO-000936,V-0161,Brown-Wall,Consumer Goods,1268994.69,64,GL-3043,Net 60,2026-05-30,good
+PO-000017,V-0098,Davis Group,Consumer Goods,1126560.9,227,GL-8025,Net 60,2026-04-24,late
+PO-000337,V-0156,Hill Inc,Consumer Goods,2012811.38,157,GL-5511,2/10 Net 30,2026-03-02,good
+PO-000614,V-0162,Stein-Silva,Consumer Goods,1183164.75,87,GL-1845,2/10 Net 30,2026-03-20,disputed
+PO-000983,V-0083,Donovan-Harris,Automotive Parts,645206.76,483,GL-2981,Net 30,2026-02-16,good
+PO-000471,V-0038,"Baker, Mason and White",Automotive Parts,2170710.0,328,GL-6527,Net 30,2026-02-18,disputed
+PO-000216,V-0064,"West, Henderson and Ramirez",Consumer Goods,1802388.18,254,GL-4203,2/10 Net 30,2026-03-17,good
+PO-000350,V-0112,"Shields, Cochran and Adams",Industrial Equipment,1583902.11,207,GL-8821,Net 45,2026-04-08,disputed
+PO-000330,V-0195,"Hernandez, Thompson and Boyd",Automotive Parts,1291495.29,192,GL-1920,2/10 Net 30,2026-02-16,good
+PO-000679,V-0023,Perez Inc,Consumer Goods,1029534.51,268,,Net 60,2026-03-31,good
+PO-000252,V-0001,"Rodriguez, Figueroa and Sanchez",Automotive Parts,2479599.68,220,GL-3161,Net 60,2026-05-07,good
+PO-000280,V-0024,Morales-Jones,Industrial Equipment,110228.71,119,GL-9515,Net 45,2026-02-07,disputed
+PO-000464,V-0103,"Mckee, Gardner and Davenport",Automotive Parts,699434.01,93,GL-3148,Net 45,2026-03-20,good
+PO-000725,V-0075,Novak PLC,Automotive Parts,1384890.38,22,,Net 45,2026-02-16,disputed
+PO-000771,V-0169,"Yates, Ramsey and Pittman",Consumer Goods,1384682.85,277,GL-8697,Net 30,2026-03-20,good
+PO-000268,V-0182,"Gould, Marshall and Scott",Automotive Parts,343460.89,6,GL-9133,Net 30,2026-05-12,late
+PO-000651,V-0171,Meadows PLC,Industrial Equipment,1308037.54,482,GL-9791,Net 45,2026-03-07,good
+PO-000351,V-0004,Davis and Sons,Automotive Parts,2230069.98,388,GL-9700,Net 30,2026-02-15,good
+PO-000969,V-0050,"Harris, Collins and Carney",Industrial Equipment,2387943.23,278,GL-1866,Net 45,2026-03-20,disputed
+PO-000699,,"Ross, Robinson and Bright",Industrial Equipment,1742856.74,255,GL-4346,2/10 Net 30,2026-05-13,late
+PO-000906,V-0027,Baker and Sons,Automotive Parts,1766159.09,475,GL-8489,Net 60,2026-04-10,good
+PO-000326,V-0037,Smith-Bowen,Consumer Goods,1545802.1,349,GL-7581,Net 60,2026-03-05,good

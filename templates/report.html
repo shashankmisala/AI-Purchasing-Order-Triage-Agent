@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  body { font-family: -apple-system, Helvetica, Arial, sans-serif; color: #1a1a1a; margin: 32px; }
+  h1 { font-size: 20px; margin-bottom: 4px; }
+  .subtitle { color: #666; margin-bottom: 24px; }
+  .stats { display: flex; gap: 16px; margin-bottom: 24px; }
+  .stat { border: 1px solid #ddd; border-radius: 6px; padding: 10px 16px; }
+  .stat .value { font-size: 22px; font-weight: 700; }
+  .stat .label { font-size: 11px; color: #666; text-transform: uppercase; }
+  table { width: 100%; border-collapse: collapse; font-size: 11px; }
+  th, td { border-bottom: 1px solid #e5e5e5; padding: 6px 8px; text-align: left; }
+  th { background: #f5f5f5; }
+  .HIGH { color: #b00020; font-weight: 700; }
+  .MEDIUM { color: #b06a00; }
+  .LOW { color: #1a7a1a; }
+</style>
+</head>
+<body>
+  <h1>PO Exception Triage Report</h1>
+  <div class="subtitle">Generated {{ generated_at }}</div>
+
+  <div class="stats">
+    <div class="stat"><div class="value">{{ summary.total_exceptions }}</div><div class="label">Total Exceptions</div></div>
+    <div class="stat"><div class="value">{{ summary.high_count }}</div><div class="label">High Severity</div></div>
+    <div class="stat"><div class="value">${{ "{:,.0f}".format(summary.estimated_financial_exposure) }}</div><div class="label">Financial Exposure</div></div>
+    <div class="stat"><div class="value">{{ "%.1f"|format(summary.processing_seconds) }}s</div><div class="label">Processing Time</div></div>
+  </div>
+
+  <table>
+    <thead>
+      <tr><th>PO Number</th><th>Vendor</th><th>Type</th><th>Severity</th><th>Score</th><th>Action</th><th>Confidence</th><th>Method</th></tr>
+    </thead>
+    <tbody>
+      {% for r in results %}
+      <tr>
+        <td>{{ r.po_number }}</td>
+        <td>{{ r.vendor_name or r.vendor_id }}</td>
+        <td>{{ r.exception_type }}</td>
+        <td class="{{ r.severity.value }}">{{ r.severity.value }}</td>
+        <td>{{ r.urgency_score }}</td>
+        <td>{{ r.recommended_action.value }}</td>
+        <td>{{ "%.2f"|format(r.confidence) }}</td>
+        <td>{{ r.classification_method.value }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</body>
+</html>
