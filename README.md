@@ -2,7 +2,7 @@
 
 > A hybrid rule-engine + LLM + RAG AI agent that automates Purchase Order exception triage — classifying exceptions, scoring severity, recommending dispositions, and drafting follow-up emails — turning a ~4-minute manual review into a sub-second automated one with a verifiable audit trail.
 
-**Live demo:** _[Add your Render URL here — see `docs/CLIENT_ENGAGEMENT.md` for the deploy runbook]_
+**Live demo:** https://po-exception-triage-agent.onrender.com
 
 ---
 
