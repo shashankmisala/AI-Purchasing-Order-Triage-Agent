@@ -127,25 +127,6 @@ Benchmarked against a 1,000-row labeled dataset (`python benchmark.py`):
 
 ---
 
-## Setup
-
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-```
-
-**Optional — enable the LLM + RAG path:**
-
-```bash
-cp .env.example .env
-# Set ANTHROPIC_API_KEY=sk-ant-... in .env
-```
-
-Without a key, the agent runs rule-engine-only — no degraded experience.
-
----
-
 ## Running
 
 **Dashboard (recommended):**
