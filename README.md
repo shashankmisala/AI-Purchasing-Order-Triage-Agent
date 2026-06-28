@@ -100,49 +100,6 @@ The result: rationales that cite actual contract clauses a human reviewer can go
 
 ---
 
-## Running
-
-**Dashboard (recommended):**
-
-```bash
-streamlit run app.py
-```
-
-Click "Load sample dataset" in the sidebar, or upload your own PO + Invoice CSVs.
-
-**Command line:**
-
-```bash
-python -m src.pipeline data/po_export.csv data/invoice_export.csv \
-  --out data/triage_report.csv \
-  --pdf data/triage_report.pdf
-```
-
-**Generate the synthetic 1,000-row dataset:**
-
-```bash
-python -m src.generate_dataset
-```
-
-Produces `data/po_export.csv`, `data/invoice_export.csv`, and `data/ground_truth.csv` — 1,000 PO exceptions across 200 vendors matching the PRD's distribution (Price Variance 35%, Quantity Mismatch 25%, Duplicate PO 15%, Missing Fields 15%, Terms Conflict 10%).
-
-**Run the benchmark:**
-
-```bash
-python benchmark.py
-```
-
-Prints classification accuracy, confusion matrix, per-class precision/recall, and timing.
-
----
-
-## Deployment
-
-Configured for [Render](https://render.com) via `render.yaml` (free tier). The public deployment runs **rule-engine-only by default** — no `ANTHROPIC_API_KEY` set — so nobody can run up an API bill or abuse the public URL. The full hybrid LLM + RAG path runs locally with a key.
-
-To deploy your own copy: push this repo to GitHub, connect it in Render's dashboard, and it picks up `render.yaml` automatically.
-
----
 
 ## Project Layout
 
