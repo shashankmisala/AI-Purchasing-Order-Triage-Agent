@@ -100,33 +100,6 @@ The result: rationales that cite actual contract clauses a human reviewer can go
 
 ---
 
-## Security
-
-A `/cso`-style security review was run against this codebase before deployment. Four real, exploitable findings were identified, fixed, and independently re-verified with executable proof-of-concept tests:
-
-| # | Finding | Fix |
-|---|---|---|
-| 1 | HTML injection / SSRF in Jinja2 PDF template — unescaped vendor fields reaching a server-side HTML-to-PDF renderer | `autoescape=True` + blocked `url_fetcher` |
-| 2 | Prompt injection defeating the LLM confidence gate — a vendor-controlled field could forge a high self-reported confidence to skip mandatory human review | LLM action must agree with an independently-computed deterministic baseline before being trusted |
-| 3 | CSV formula injection in the downloadable triage report | Neutralize leading formula-trigger characters before writing |
-| 4 | Unbounded temp-file retention of uploaded PO/invoice data | Scoped `TemporaryDirectory` with explicit `cleanup()` |
-
-The same "never trust a model's self-report" principle extends to the RAG layer: every citation a model claims is cross-checked against what was actually retrieved and shown to it — anything fabricated is silently dropped.
-
----
-
-## Performance
-
-Benchmarked against a 1,000-row labeled dataset (`python benchmark.py`):
-
-| Metric | Target | Delivered |
-|---|---|---|
-| Classification accuracy | >88% | **100%** on the rule path |
-| Triage time per exception | <10s | **~0.04ms** (rule path) |
-| Batch (200 exceptions) | <5 min | **<1 second** |
-
----
-
 ## Running
 
 **Dashboard (recommended):**
